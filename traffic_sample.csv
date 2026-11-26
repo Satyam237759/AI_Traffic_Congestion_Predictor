@@ -1,0 +1,2501 @@
+hour,day,vehicles,weather,road_type,congestion
+2,Friday,277,Clear,Residential,Low
+18,Monday,88,Cloudy,Highway,Low
+15,Saturday,772,Clear,Main Road,Low
+10,Monday,836,Rainy,Main Road,High
+10,Monday,939,Clear,Residential,Medium
+20,Monday,1144,Clear,Residential,High
+2,Thursday,622,Clear,Main Road,Low
+16,Friday,1004,Clear,Highway,Medium
+4,Wednesday,874,Rainy,Main Road,Medium
+2,Monday,369,Clear,Highway,Low
+12,Tuesday,1022,Foggy,Residential,Medium
+23,Saturday,111,Clear,Highway,Low
+17,Sunday,739,Clear,Highway,Medium
+18,Saturday,1132,Clear,Main Road,High
+17,Monday,808,Clear,Main Road,Medium
+18,Saturday,1128,Rainy,Residential,High
+12,Friday,114,Cloudy,Highway,Low
+3,Thursday,662,Clear,Residential,Medium
+20,Tuesday,948,Cloudy,Highway,Medium
+10,Sunday,789,Cloudy,Highway,Medium
+12,Thursday,1063,Foggy,Main Road,Medium
+8,Monday,582,Foggy,Highway,Medium
+4,Tuesday,835,Cloudy,Main Road,Medium
+22,Wednesday,533,Rainy,Highway,Low
+18,Monday,1053,Rainy,Highway,Medium
+15,Wednesday,187,Cloudy,Main Road,Low
+9,Thursday,342,Cloudy,Highway,Low
+19,Sunday,161,Clear,Main Road,Low
+13,Monday,858,Rainy,Main Road,Medium
+10,Friday,317,Foggy,Highway,Low
+10,Sunday,415,Clear,Residential,Low
+5,Saturday,1012,Rainy,Main Road,Medium
+2,Sunday,464,Foggy,Main Road,Low
+13,Tuesday,217,Clear,Highway,Low
+21,Saturday,74,Cloudy,Residential,Low
+1,Sunday,310,Rainy,Main Road,Low
+20,Wednesday,1102,Foggy,Main Road,Medium
+19,Thursday,681,Clear,Residential,Medium
+6,Thursday,1195,Clear,Main Road,Medium
+15,Thursday,297,Cloudy,Residential,Low
+3,Wednesday,454,Clear,Main Road,Low
+18,Sunday,237,Clear,Residential,Low
+16,Sunday,508,Clear,Residential,Low
+8,Wednesday,698,Clear,Residential,Medium
+1,Saturday,980,Cloudy,Highway,Medium
+23,Wednesday,473,Cloudy,Residential,Low
+10,Saturday,938,Cloudy,Residential,Medium
+21,Friday,770,Rainy,Main Road,Medium
+16,Thursday,385,Clear,Main Road,Low
+18,Monday,1099,Clear,Residential,Medium
+18,Friday,549,Clear,Highway,Medium
+4,Wednesday,223,Clear,Main Road,Low
+8,Tuesday,1158,Clear,Main Road,High
+11,Tuesday,1101,Clear,Highway,Medium
+11,Sunday,107,Clear,Main Road,Low
+1,Monday,1088,Clear,Highway,Medium
+13,Saturday,1140,Cloudy,Main Road,Medium
+3,Sunday,1004,Cloudy,Residential,Medium
+17,Monday,343,Foggy,Main Road,Medium
+16,Friday,776,Rainy,Main Road,Medium
+22,Friday,669,Cloudy,Highway,Medium
+17,Wednesday,763,Clear,Residential,Medium
+8,Friday,759,Cloudy,Residential,Medium
+23,Wednesday,785,Clear,Highway,Low
+9,Thursday,641,Clear,Main Road,Medium
+7,Thursday,844,Clear,Main Road,Medium
+21,Saturday,656,Clear,Main Road,Medium
+8,Friday,68,Clear,Main Road,Low
+1,Wednesday,90,Cloudy,Main Road,Low
+11,Sunday,1152,Rainy,Main Road,Medium
+19,Saturday,1096,Rainy,Highway,High
+4,Sunday,724,Cloudy,Main Road,Low
+11,Saturday,250,Cloudy,Residential,Low
+3,Wednesday,949,Clear,Highway,Low
+16,Saturday,214,Cloudy,Main Road,Low
+11,Wednesday,484,Cloudy,Highway,Low
+7,Tuesday,429,Clear,Residential,Medium
+5,Thursday,64,Clear,Main Road,Low
+13,Sunday,978,Foggy,Main Road,Medium
+16,Thursday,636,Cloudy,Highway,Low
+22,Wednesday,414,Clear,Main Road,Low
+10,Thursday,633,Cloudy,Residential,Medium
+3,Wednesday,50,Clear,Main Road,Low
+19,Friday,552,Clear,Main Road,Medium
+15,Wednesday,648,Clear,Main Road,Low
+16,Thursday,441,Clear,Main Road,Low
+2,Wednesday,1005,Cloudy,Main Road,Medium
+7,Wednesday,337,Clear,Main Road,Medium
+18,Sunday,208,Rainy,Highway,Low
+19,Wednesday,657,Clear,Main Road,Medium
+10,Monday,1071,Cloudy,Residential,Medium
+19,Wednesday,481,Cloudy,Residential,Medium
+20,Thursday,103,Cloudy,Residential,Low
+9,Monday,1166,Cloudy,Main Road,High
+21,Wednesday,561,Foggy,Main Road,Medium
+6,Tuesday,249,Cloudy,Main Road,Low
+5,Thursday,758,Rainy,Residential,Medium
+16,Saturday,417,Cloudy,Main Road,Low
+15,Sunday,1129,Clear,Main Road,Medium
+3,Wednesday,388,Clear,Main Road,Low
+19,Sunday,683,Clear,Residential,Medium
+4,Tuesday,675,Clear,Residential,Low
+19,Saturday,329,Clear,Residential,Low
+0,Thursday,624,Clear,Main Road,Medium
+19,Saturday,175,Cloudy,Main Road,Low
+18,Saturday,790,Clear,Main Road,Medium
+18,Thursday,922,Rainy,Main Road,High
+15,Tuesday,1143,Clear,Residential,Medium
+11,Thursday,424,Cloudy,Main Road,Low
+16,Saturday,378,Clear,Main Road,Low
+6,Sunday,681,Clear,Main Road,Low
+18,Sunday,847,Clear,Main Road,Medium
+13,Tuesday,1192,Cloudy,Main Road,Medium
+11,Friday,78,Clear,Highway,Low
+12,Monday,324,Foggy,Residential,Low
+13,Friday,352,Clear,Main Road,Low
+0,Sunday,343,Cloudy,Main Road,Low
+3,Monday,583,Clear,Highway,Low
+5,Friday,1054,Cloudy,Main Road,Medium
+2,Sunday,85,Clear,Main Road,Low
+10,Saturday,989,Clear,Residential,Medium
+16,Wednesday,760,Clear,Highway,Low
+15,Monday,758,Clear,Residential,Low
+11,Sunday,830,Clear,Main Road,Medium
+20,Sunday,182,Foggy,Main Road,Low
+13,Friday,909,Clear,Highway,Medium
+1,Sunday,335,Clear,Main Road,Low
+18,Monday,644,Foggy,Residential,Medium
+13,Friday,829,Clear,Main Road,Medium
+15,Monday,745,Clear,Main Road,Medium
+13,Sunday,421,Cloudy,Main Road,Low
+13,Friday,505,Rainy,Residential,Low
+2,Sunday,598,Cloudy,Main Road,Low
+13,Thursday,97,Clear,Residential,Low
+19,Monday,885,Foggy,Highway,Medium
+7,Monday,165,Clear,Residential,Low
+14,Wednesday,577,Foggy,Main Road,Medium
+0,Saturday,803,Rainy,Highway,Medium
+8,Tuesday,142,Rainy,Residential,Medium
+10,Saturday,1195,Clear,Highway,Medium
+23,Tuesday,484,Clear,Highway,Medium
+5,Thursday,68,Cloudy,Main Road,Low
+6,Tuesday,808,Cloudy,Main Road,Low
+9,Thursday,691,Cloudy,Highway,Medium
+23,Thursday,787,Rainy,Main Road,Medium
+20,Monday,914,Cloudy,Residential,Medium
+0,Thursday,597,Clear,Residential,Low
+5,Saturday,1001,Clear,Highway,Medium
+19,Sunday,476,Clear,Main Road,Low
+1,Wednesday,677,Clear,Residential,Low
+20,Sunday,232,Clear,Highway,Low
+6,Sunday,763,Rainy,Highway,Medium
+22,Sunday,351,Cloudy,Highway,Low
+7,Wednesday,851,Cloudy,Main Road,Medium
+10,Saturday,972,Clear,Highway,Medium
+15,Thursday,1038,Cloudy,Main Road,Medium
+3,Monday,1119,Rainy,Residential,Medium
+13,Tuesday,190,Rainy,Highway,Low
+12,Friday,208,Cloudy,Main Road,Low
+18,Tuesday,1116,Rainy,Highway,High
+23,Thursday,488,Cloudy,Highway,Low
+15,Saturday,79,Clear,Residential,Low
+9,Tuesday,380,Rainy,Main Road,Medium
+9,Thursday,1012,Clear,Residential,High
+10,Tuesday,458,Clear,Main Road,Medium
+19,Thursday,138,Clear,Highway,Low
+7,Tuesday,881,Cloudy,Main Road,Medium
+4,Sunday,274,Cloudy,Highway,Low
+8,Monday,456,Cloudy,Residential,Medium
+0,Sunday,54,Clear,Main Road,Low
+2,Saturday,742,Clear,Main Road,Low
+2,Saturday,562,Rainy,Main Road,Medium
+18,Saturday,1047,Clear,Main Road,Medium
+17,Tuesday,434,Rainy,Residential,Medium
+16,Sunday,285,Clear,Highway,Low
+11,Friday,241,Cloudy,Highway,Low
+17,Sunday,280,Cloudy,Highway,Low
+3,Sunday,569,Rainy,Main Road,Medium
+21,Friday,150,Clear,Main Road,Low
+12,Wednesday,513,Rainy,Highway,Low
+22,Monday,1033,Cloudy,Main Road,Medium
+3,Monday,933,Cloudy,Main Road,Medium
+11,Wednesday,783,Cloudy,Highway,Medium
+16,Saturday,1077,Clear,Residential,Medium
+11,Thursday,948,Cloudy,Main Road,Medium
+10,Thursday,801,Clear,Main Road,Medium
+3,Tuesday,1043,Clear,Main Road,Medium
+9,Thursday,193,Cloudy,Main Road,Low
+5,Friday,991,Cloudy,Residential,Medium
+7,Sunday,389,Clear,Main Road,Low
+16,Saturday,893,Clear,Main Road,Medium
+15,Friday,1101,Clear,Residential,Medium
+14,Sunday,620,Clear,Residential,Low
+8,Wednesday,152,Cloudy,Residential,Low
+23,Sunday,476,Clear,Highway,Low
+2,Wednesday,518,Rainy,Highway,Low
+8,Monday,1128,Clear,Main Road,High
+2,Wednesday,1134,Clear,Main Road,Medium
+8,Monday,704,Rainy,Main Road,Medium
+23,Monday,1144,Clear,Residential,Medium
+8,Sunday,552,Clear,Main Road,Low
+21,Saturday,523,Foggy,Main Road,Low
+11,Tuesday,1012,Foggy,Main Road,High
+16,Saturday,818,Cloudy,Main Road,Medium
+10,Monday,651,Clear,Main Road,Medium
+6,Tuesday,575,Cloudy,Main Road,Low
+18,Friday,862,Foggy,Main Road,Medium
+23,Wednesday,917,Foggy,Main Road,Medium
+6,Saturday,614,Clear,Main Road,Medium
+18,Sunday,86,Clear,Main Road,Low
+6,Monday,167,Clear,Highway,Low
+17,Monday,215,Clear,Main Road,Low
+18,Sunday,581,Cloudy,Main Road,Medium
+10,Thursday,756,Clear,Main Road,Medium
+17,Thursday,975,Clear,Main Road,Medium
+6,Thursday,317,Clear,Residential,Low
+1,Thursday,955,Cloudy,Highway,Medium
+2,Friday,816,Clear,Main Road,Medium
+10,Friday,109,Clear,Residential,Low
+21,Tuesday,454,Clear,Residential,Low
+3,Friday,398,Foggy,Main Road,Medium
+10,Friday,1070,Clear,Main Road,High
+16,Monday,1110,Cloudy,Residential,Medium
+4,Wednesday,992,Clear,Main Road,Medium
+17,Saturday,657,Clear,Highway,Low
+7,Friday,617,Clear,Highway,Medium
+19,Monday,408,Clear,Residential,Low
+13,Monday,939,Clear,Main Road,Medium
+13,Friday,149,Cloudy,Highway,Low
+4,Thursday,362,Cloudy,Main Road,Low
+11,Sunday,205,Clear,Residential,Low
+20,Thursday,618,Clear,Main Road,Low
+0,Sunday,395,Cloudy,Residential,Low
+18,Tuesday,277,Clear,Main Road,Low
+11,Thursday,483,Clear,Residential,Low
+17,Monday,1040,Clear,Residential,Medium
+15,Friday,692,Clear,Main Road,Low
+10,Tuesday,997,Clear,Main Road,High
+7,Thursday,1101,Foggy,Highway,High
+15,Wednesday,1088,Foggy,Residential,Medium
+3,Tuesday,454,Foggy,Main Road,Low
+14,Monday,1059,Clear,Main Road,Medium
+2,Thursday,1096,Clear,Residential,Medium
+15,Sunday,1154,Clear,Highway,Medium
+15,Tuesday,454,Clear,Residential,Low
+2,Wednesday,312,Clear,Highway,Low
+18,Tuesday,722,Clear,Main Road,Medium
+9,Saturday,1122,Clear,Main Road,High
+18,Wednesday,1086,Clear,Main Road,High
+0,Sunday,707,Clear,Main Road,Low
+4,Tuesday,221,Cloudy,Residential,Low
+11,Monday,536,Clear,Main Road,Medium
+4,Friday,871,Rainy,Main Road,Medium
+7,Friday,694,Clear,Residential,Medium
+15,Sunday,447,Cloudy,Residential,Low
+3,Sunday,444,Clear,Highway,Low
+16,Sunday,118,Cloudy,Residential,Low
+2,Friday,382,Clear,Highway,Low
+4,Wednesday,820,Clear,Main Road,Medium
+14,Thursday,327,Cloudy,Main Road,Low
+19,Monday,1193,Clear,Residential,High
+4,Thursday,144,Clear,Highway,Low
+7,Wednesday,727,Rainy,Highway,Medium
+22,Monday,621,Clear,Residential,Low
+23,Tuesday,1009,Cloudy,Highway,Medium
+13,Thursday,1071,Cloudy,Main Road,Medium
+10,Wednesday,675,Clear,Main Road,Medium
+8,Sunday,775,Clear,Main Road,Medium
+14,Thursday,854,Clear,Highway,Medium
+14,Sunday,649,Cloudy,Main Road,Low
+7,Friday,262,Clear,Residential,Medium
+0,Monday,543,Clear,Main Road,Low
+3,Tuesday,328,Clear,Highway,Low
+23,Friday,584,Rainy,Highway,Low
+10,Thursday,758,Rainy,Main Road,Medium
+11,Wednesday,290,Foggy,Residential,Low
+11,Thursday,337,Cloudy,Main Road,Low
+18,Sunday,997,Cloudy,Highway,Medium
+1,Wednesday,484,Cloudy,Main Road,Low
+1,Monday,278,Rainy,Highway,Low
+6,Wednesday,870,Cloudy,Main Road,Medium
+11,Sunday,874,Clear,Residential,Low
+16,Saturday,1000,Cloudy,Main Road,Medium
+11,Saturday,924,Cloudy,Highway,Medium
+10,Sunday,1191,Clear,Main Road,Medium
+22,Monday,711,Clear,Highway,Low
+3,Tuesday,380,Clear,Highway,Low
+13,Monday,1043,Rainy,Main Road,Medium
+13,Monday,354,Clear,Main Road,Low
+11,Saturday,384,Rainy,Main Road,Low
+19,Sunday,1003,Clear,Residential,Medium
+6,Tuesday,1064,Rainy,Highway,Medium
+22,Saturday,440,Clear,Residential,Low
+7,Thursday,889,Rainy,Main Road,High
+13,Monday,1111,Cloudy,Main Road,Medium
+12,Sunday,969,Clear,Residential,Medium
+20,Sunday,55,Clear,Highway,Low
+10,Thursday,814,Clear,Main Road,Medium
+6,Friday,245,Clear,Main Road,Low
+0,Wednesday,1024,Cloudy,Main Road,Medium
+8,Saturday,127,Foggy,Residential,Low
+19,Thursday,1193,Cloudy,Highway,High
+0,Sunday,254,Cloudy,Residential,Low
+21,Monday,533,Clear,Highway,Low
+13,Tuesday,319,Rainy,Highway,Low
+3,Sunday,986,Rainy,Main Road,Medium
+7,Wednesday,502,Clear,Residential,Medium
+13,Wednesday,907,Foggy,Highway,Medium
+7,Saturday,127,Clear,Residential,Low
+2,Tuesday,571,Rainy,Highway,Low
+15,Thursday,1098,Foggy,Main Road,High
+16,Wednesday,1116,Cloudy,Main Road,Medium
+2,Tuesday,290,Clear,Highway,Low
+6,Sunday,503,Cloudy,Residential,Low
+5,Tuesday,520,Clear,Main Road,Low
+15,Monday,700,Rainy,Main Road,Medium
+17,Friday,668,Clear,Main Road,Medium
+17,Sunday,171,Cloudy,Main Road,Low
+22,Monday,927,Rainy,Main Road,Medium
+18,Friday,309,Clear,Residential,Low
+7,Thursday,412,Clear,Main Road,Medium
+2,Saturday,1017,Cloudy,Main Road,Medium
+14,Monday,843,Clear,Main Road,Medium
+21,Sunday,506,Clear,Main Road,Low
+23,Friday,1100,Clear,Main Road,Medium
+5,Saturday,503,Clear,Main Road,Low
+5,Wednesday,700,Cloudy,Main Road,Medium
+0,Sunday,333,Cloudy,Residential,Low
+3,Friday,260,Clear,Residential,Low
+13,Monday,615,Clear,Residential,Low
+13,Sunday,698,Clear,Residential,Low
+8,Saturday,977,Clear,Main Road,Medium
+7,Wednesday,499,Cloudy,Main Road,Medium
+19,Thursday,1080,Clear,Highway,Medium
+11,Wednesday,749,Cloudy,Main Road,Medium
+19,Thursday,130,Rainy,Main Road,Low
+23,Sunday,900,Cloudy,Highway,Low
+7,Sunday,711,Cloudy,Residential,Medium
+4,Tuesday,498,Clear,Residential,Low
+22,Sunday,587,Clear,Main Road,Medium
+15,Thursday,397,Clear,Main Road,Low
+6,Friday,757,Rainy,Main Road,Medium
+14,Saturday,702,Rainy,Main Road,Medium
+12,Thursday,564,Clear,Residential,Low
+21,Thursday,378,Clear,Residential,Low
+6,Thursday,508,Clear,Main Road,Low
+23,Sunday,623,Cloudy,Highway,Low
+22,Wednesday,593,Cloudy,Main Road,Medium
+4,Tuesday,405,Cloudy,Highway,Low
+3,Wednesday,719,Rainy,Main Road,Medium
+12,Tuesday,310,Clear,Highway,Low
+1,Wednesday,626,Cloudy,Highway,Medium
+7,Monday,189,Cloudy,Main Road,Low
+10,Monday,593,Clear,Highway,Medium
+23,Saturday,952,Rainy,Main Road,Medium
+23,Monday,991,Clear,Highway,Medium
+3,Thursday,849,Cloudy,Residential,Medium
+21,Saturday,908,Cloudy,Highway,Low
+2,Saturday,125,Rainy,Highway,Low
+17,Thursday,442,Cloudy,Highway,Medium
+20,Tuesday,803,Clear,Main Road,High
+21,Sunday,971,Rainy,Main Road,Medium
+5,Saturday,720,Rainy,Main Road,Medium
+21,Friday,1032,Cloudy,Highway,Low
+2,Monday,364,Rainy,Residential,Low
+12,Monday,226,Clear,Highway,Low
+11,Wednesday,149,Cloudy,Main Road,Low
+7,Tuesday,720,Rainy,Residential,Medium
+0,Sunday,815,Clear,Highway,Low
+18,Tuesday,378,Cloudy,Main Road,Medium
+8,Tuesday,951,Foggy,Residential,High
+15,Sunday,900,Rainy,Main Road,Medium
+9,Saturday,464,Rainy,Highway,Medium
+8,Tuesday,324,Clear,Main Road,Medium
+21,Wednesday,904,Foggy,Highway,Medium
+2,Thursday,822,Clear,Residential,Low
+17,Friday,246,Cloudy,Main Road,Low
+17,Sunday,343,Clear,Main Road,Low
+9,Sunday,609,Rainy,Highway,Medium
+6,Sunday,638,Rainy,Main Road,Medium
+0,Monday,241,Rainy,Main Road,Low
+22,Tuesday,1141,Cloudy,Highway,Medium
+22,Thursday,497,Clear,Residential,Low
+5,Monday,488,Cloudy,Main Road,Low
+0,Wednesday,119,Cloudy,Residential,Low
+2,Tuesday,1057,Clear,Main Road,Medium
+1,Sunday,320,Cloudy,Highway,Low
+19,Monday,1185,Rainy,Main Road,High
+21,Tuesday,620,Cloudy,Residential,Low
+3,Tuesday,1056,Rainy,Main Road,Medium
+17,Tuesday,256,Clear,Highway,Low
+4,Thursday,240,Cloudy,Residential,Low
+8,Wednesday,972,Clear,Highway,Medium
+14,Sunday,993,Clear,Main Road,Medium
+17,Tuesday,675,Clear,Main Road,Medium
+20,Thursday,87,Clear,Highway,Low
+1,Friday,1136,Clear,Highway,Low
+4,Friday,502,Cloudy,Highway,Low
+6,Saturday,1127,Clear,Residential,Medium
+7,Tuesday,1052,Clear,Main Road,High
+23,Thursday,1030,Clear,Main Road,Medium
+18,Saturday,842,Cloudy,Residential,Medium
+7,Sunday,824,Clear,Main Road,Medium
+23,Friday,663,Clear,Main Road,Low
+11,Friday,78,Cloudy,Main Road,Low
+12,Sunday,496,Clear,Main Road,Low
+10,Friday,890,Rainy,Main Road,High
+3,Sunday,984,Clear,Residential,Medium
+22,Monday,694,Clear,Residential,Low
+0,Wednesday,866,Clear,Main Road,Medium
+4,Monday,75,Cloudy,Main Road,Low
+5,Monday,589,Clear,Residential,Low
+6,Thursday,634,Rainy,Highway,Low
+3,Tuesday,1077,Clear,Residential,Medium
+0,Wednesday,408,Cloudy,Main Road,Low
+16,Thursday,314,Clear,Main Road,Low
+23,Friday,455,Clear,Residential,Low
+2,Sunday,246,Clear,Main Road,Low
+7,Saturday,692,Cloudy,Highway,Medium
+12,Wednesday,789,Clear,Residential,Low
+22,Wednesday,972,Foggy,Main Road,High
+16,Saturday,1168,Cloudy,Main Road,Medium
+18,Monday,134,Foggy,Main Road,Low
+13,Thursday,334,Clear,Main Road,Low
+10,Wednesday,396,Rainy,Main Road,Medium
+4,Tuesday,337,Cloudy,Highway,Low
+20,Friday,1002,Cloudy,Main Road,High
+19,Wednesday,210,Foggy,Residential,Low
+0,Tuesday,84,Cloudy,Highway,Low
+17,Friday,1040,Rainy,Main Road,High
+2,Tuesday,1156,Cloudy,Main Road,Medium
+17,Friday,310,Clear,Residential,Medium
+19,Tuesday,433,Cloudy,Main Road,Medium
+3,Thursday,629,Cloudy,Residential,Low
+10,Saturday,655,Rainy,Highway,Low
+2,Tuesday,1190,Rainy,Main Road,Medium
+13,Saturday,515,Clear,Residential,Low
+22,Saturday,63,Clear,Residential,Low
+1,Sunday,536,Clear,Main Road,Low
+9,Tuesday,690,Cloudy,Main Road,Medium
+23,Saturday,644,Clear,Main Road,Low
+7,Sunday,639,Cloudy,Highway,Medium
+3,Saturday,1111,Cloudy,Residential,Medium
+11,Tuesday,979,Rainy,Residential,Medium
+12,Saturday,339,Clear,Main Road,Low
+15,Monday,458,Cloudy,Main Road,Low
+7,Friday,818,Clear,Main Road,Medium
+22,Thursday,522,Rainy,Highway,Low
+12,Thursday,543,Clear,Main Road,Low
+6,Thursday,243,Clear,Main Road,Low
+23,Monday,342,Clear,Highway,Low
+22,Thursday,902,Rainy,Main Road,Medium
+11,Sunday,1020,Clear,Residential,Low
+0,Thursday,953,Cloudy,Highway,Low
+14,Tuesday,404,Rainy,Main Road,Medium
+13,Sunday,207,Rainy,Main Road,Low
+3,Monday,233,Clear,Highway,Low
+15,Thursday,502,Clear,Main Road,Low
+20,Thursday,645,Clear,Main Road,Medium
+2,Thursday,1077,Clear,Highway,Medium
+17,Sunday,1084,Cloudy,Highway,High
+3,Wednesday,53,Clear,Residential,Low
+17,Sunday,864,Clear,Main Road,Medium
+10,Monday,393,Clear,Main Road,Low
+0,Saturday,277,Cloudy,Main Road,Low
+23,Friday,688,Clear,Residential,Low
+3,Tuesday,89,Cloudy,Main Road,Low
+14,Tuesday,434,Clear,Residential,Low
+4,Saturday,685,Foggy,Main Road,Low
+22,Friday,363,Cloudy,Main Road,Low
+17,Friday,732,Clear,Main Road,Medium
+19,Monday,579,Clear,Main Road,Medium
+10,Friday,970,Clear,Main Road,Medium
+11,Sunday,258,Clear,Highway,Low
+15,Monday,115,Clear,Main Road,Low
+18,Thursday,659,Rainy,Main Road,Medium
+20,Thursday,345,Cloudy,Highway,Low
+0,Sunday,863,Clear,Main Road,Medium
+15,Tuesday,157,Cloudy,Residential,Low
+2,Thursday,712,Clear,Main Road,Medium
+6,Saturday,1189,Foggy,Residential,Medium
+19,Monday,157,Clear,Main Road,Low
+6,Saturday,397,Rainy,Residential,Low
+19,Saturday,1021,Rainy,Residential,Medium
+11,Saturday,664,Clear,Highway,Low
+5,Friday,251,Clear,Residential,Low
+8,Saturday,295,Clear,Highway,Low
+12,Saturday,930,Rainy,Main Road,High
+18,Sunday,1040,Cloudy,Residential,High
+14,Wednesday,465,Cloudy,Main Road,Low
+22,Thursday,595,Rainy,Main Road,Medium
+20,Friday,950,Rainy,Main Road,High
+18,Tuesday,253,Clear,Highway,Low
+14,Saturday,287,Cloudy,Highway,Low
+6,Saturday,941,Cloudy,Highway,Low
+9,Friday,264,Clear,Highway,Low
+2,Wednesday,937,Rainy,Main Road,Medium
+8,Wednesday,622,Clear,Main Road,Medium
+22,Thursday,1189,Clear,Main Road,Medium
+10,Friday,87,Rainy,Main Road,Low
+2,Saturday,1138,Clear,Highway,Medium
+15,Friday,309,Clear,Main Road,Low
+23,Sunday,90,Clear,Residential,Low
+20,Sunday,883,Cloudy,Residential,High
+6,Friday,662,Rainy,Main Road,Medium
+10,Wednesday,1013,Clear,Highway,Medium
+12,Friday,174,Clear,Residential,Low
+5,Wednesday,142,Clear,Residential,Low
+6,Friday,702,Foggy,Main Road,Medium
+5,Saturday,1065,Clear,Highway,Medium
+23,Wednesday,517,Foggy,Highway,Low
+17,Thursday,967,Rainy,Main Road,High
+20,Monday,1093,Clear,Residential,High
+19,Saturday,1051,Rainy,Main Road,High
+23,Thursday,635,Cloudy,Main Road,Low
+2,Thursday,853,Cloudy,Main Road,Medium
+21,Thursday,655,Clear,Residential,Medium
+1,Tuesday,825,Rainy,Main Road,Medium
+11,Friday,702,Rainy,Residential,Medium
+14,Saturday,654,Rainy,Main Road,Medium
+8,Wednesday,552,Foggy,Main Road,Medium
+3,Monday,801,Clear,Main Road,Medium
+4,Wednesday,914,Rainy,Main Road,Medium
+19,Tuesday,1107,Rainy,Residential,High
+7,Wednesday,755,Clear,Main Road,Medium
+7,Friday,165,Clear,Main Road,Low
+22,Monday,726,Clear,Main Road,Medium
+3,Saturday,413,Rainy,Main Road,Low
+21,Tuesday,80,Clear,Main Road,Low
+22,Sunday,133,Cloudy,Main Road,Low
+14,Saturday,730,Clear,Main Road,Low
+3,Tuesday,1137,Clear,Main Road,Medium
+3,Thursday,631,Cloudy,Main Road,Low
+6,Monday,562,Clear,Highway,Low
+13,Monday,152,Rainy,Main Road,Low
+3,Sunday,827,Clear,Main Road,Low
+10,Saturday,113,Rainy,Main Road,Low
+2,Tuesday,1018,Clear,Main Road,Medium
+12,Tuesday,989,Foggy,Residential,Medium
+0,Tuesday,1190,Cloudy,Residential,High
+17,Wednesday,377,Clear,Main Road,Low
+1,Wednesday,236,Clear,Main Road,Low
+4,Wednesday,394,Clear,Main Road,Low
+4,Thursday,970,Cloudy,Main Road,Medium
+19,Tuesday,301,Rainy,Main Road,Low
+1,Sunday,1071,Clear,Main Road,Medium
+10,Saturday,227,Clear,Residential,Low
+14,Saturday,106,Cloudy,Highway,Low
+12,Tuesday,302,Cloudy,Main Road,Low
+16,Friday,917,Cloudy,Highway,Low
+19,Saturday,743,Clear,Main Road,Medium
+9,Tuesday,458,Cloudy,Main Road,Low
+19,Saturday,805,Foggy,Main Road,Medium
+7,Wednesday,796,Clear,Main Road,Medium
+23,Saturday,688,Clear,Residential,Low
+12,Thursday,641,Clear,Residential,Low
+17,Saturday,166,Cloudy,Main Road,Low
+21,Tuesday,348,Clear,Residential,Low
+19,Wednesday,657,Foggy,Main Road,Medium
+20,Tuesday,205,Cloudy,Residential,Low
+12,Tuesday,597,Cloudy,Highway,Low
+1,Wednesday,184,Rainy,Main Road,Low
+11,Wednesday,956,Clear,Main Road,Medium
+4,Monday,168,Rainy,Highway,Low
+21,Friday,156,Clear,Main Road,Low
+5,Thursday,784,Cloudy,Highway,Low
+5,Saturday,303,Foggy,Main Road,Low
+5,Friday,454,Rainy,Highway,Low
+15,Tuesday,411,Rainy,Highway,Low
+13,Monday,299,Clear,Residential,Low
+22,Wednesday,926,Rainy,Main Road,Medium
+9,Thursday,846,Cloudy,Residential,Medium
+6,Tuesday,324,Cloudy,Main Road,Low
+1,Saturday,840,Clear,Highway,Low
+0,Friday,871,Clear,Main Road,Medium
+8,Saturday,670,Cloudy,Main Road,Medium
+22,Monday,715,Clear,Highway,Low
+12,Saturday,1126,Rainy,Residential,Medium
+21,Tuesday,572,Rainy,Main Road,Low
+2,Thursday,493,Rainy,Main Road,Medium
+2,Thursday,670,Clear,Main Road,Low
+20,Saturday,1012,Foggy,Main Road,High
+2,Tuesday,866,Clear,Main Road,Medium
+1,Tuesday,136,Clear,Residential,Low
+9,Wednesday,578,Rainy,Main Road,Medium
+22,Wednesday,901,Clear,Highway,Medium
+16,Tuesday,307,Clear,Highway,Low
+2,Tuesday,1187,Clear,Main Road,Medium
+20,Tuesday,980,Cloudy,Residential,Medium
+20,Thursday,1024,Rainy,Residential,High
+19,Wednesday,144,Clear,Main Road,Low
+21,Wednesday,717,Clear,Residential,Low
+5,Saturday,657,Cloudy,Main Road,Low
+23,Tuesday,771,Clear,Main Road,Medium
+7,Sunday,1028,Rainy,Main Road,Medium
+19,Saturday,456,Foggy,Highway,Low
+13,Tuesday,664,Rainy,Highway,Medium
+18,Wednesday,832,Rainy,Main Road,High
+15,Tuesday,916,Cloudy,Highway,Low
+15,Tuesday,936,Rainy,Residential,Medium
+14,Wednesday,437,Clear,Residential,Low
+18,Monday,1198,Clear,Main Road,High
+17,Monday,61,Cloudy,Main Road,Low
+3,Thursday,616,Clear,Main Road,Low
+19,Friday,750,Rainy,Highway,Medium
+12,Wednesday,120,Cloudy,Main Road,Low
+7,Sunday,569,Foggy,Highway,Medium
+12,Wednesday,735,Clear,Main Road,Medium
+23,Sunday,749,Cloudy,Highway,Low
+20,Tuesday,186,Rainy,Highway,Low
+20,Thursday,369,Clear,Highway,Low
+11,Saturday,331,Cloudy,Residential,Low
+18,Monday,786,Cloudy,Highway,Medium
+9,Sunday,428,Foggy,Main Road,Medium
+16,Wednesday,707,Rainy,Main Road,Medium
+15,Thursday,891,Clear,Main Road,Medium
+5,Friday,967,Clear,Main Road,Medium
+6,Friday,261,Cloudy,Highway,Low
+1,Monday,1089,Clear,Main Road,Medium
+3,Sunday,240,Clear,Main Road,Low
+10,Friday,75,Clear,Main Road,Low
+11,Sunday,101,Clear,Main Road,Low
+3,Thursday,281,Cloudy,Main Road,Low
+10,Friday,1055,Clear,Main Road,High
+14,Thursday,289,Cloudy,Highway,Low
+5,Sunday,848,Clear,Main Road,Medium
+8,Saturday,531,Cloudy,Highway,Low
+8,Sunday,95,Clear,Main Road,Low
+12,Thursday,561,Rainy,Main Road,Medium
+8,Saturday,82,Clear,Highway,Low
+17,Wednesday,598,Cloudy,Highway,Medium
+7,Thursday,693,Clear,Main Road,Medium
+10,Saturday,650,Clear,Main Road,Medium
+9,Monday,375,Clear,Residential,Medium
+4,Friday,932,Rainy,Residential,Medium
+16,Monday,736,Rainy,Residential,Medium
+5,Friday,343,Clear,Main Road,Low
+7,Thursday,550,Clear,Main Road,Medium
+19,Thursday,174,Cloudy,Main Road,Low
+22,Thursday,1112,Cloudy,Main Road,High
+16,Thursday,916,Clear,Main Road,Medium
+21,Wednesday,381,Rainy,Main Road,Low
+20,Thursday,826,Cloudy,Highway,Medium
+11,Thursday,831,Cloudy,Highway,Low
+18,Saturday,751,Clear,Highway,Medium
+7,Thursday,112,Clear,Highway,Low
+11,Friday,1061,Clear,Residential,Medium
+12,Saturday,1150,Rainy,Highway,Medium
+23,Sunday,1171,Clear,Main Road,Medium
+20,Monday,1178,Rainy,Residential,High
+11,Friday,1119,Rainy,Main Road,Medium
+15,Tuesday,900,Rainy,Main Road,Medium
+4,Tuesday,115,Clear,Main Road,Low
+19,Saturday,585,Clear,Main Road,Medium
+13,Monday,332,Clear,Main Road,Low
+12,Saturday,303,Cloudy,Residential,Low
+18,Saturday,1006,Rainy,Main Road,High
+15,Sunday,985,Clear,Residential,Low
+1,Friday,650,Rainy,Residential,Medium
+6,Sunday,897,Clear,Main Road,Medium
+4,Monday,198,Clear,Main Road,Low
+17,Sunday,305,Clear,Main Road,Low
+0,Tuesday,1040,Rainy,Main Road,Medium
+4,Wednesday,569,Clear,Main Road,Medium
+14,Monday,679,Clear,Main Road,Low
+16,Wednesday,582,Rainy,Residential,Low
+12,Saturday,282,Cloudy,Main Road,Low
+20,Tuesday,1001,Clear,Main Road,Medium
+22,Saturday,922,Clear,Main Road,Medium
+3,Friday,837,Cloudy,Main Road,Medium
+22,Friday,456,Clear,Residential,Low
+14,Sunday,790,Clear,Residential,Medium
+15,Thursday,1147,Cloudy,Main Road,Medium
+2,Wednesday,797,Clear,Main Road,Medium
+14,Sunday,618,Cloudy,Main Road,Low
+17,Thursday,361,Clear,Highway,Low
+13,Friday,651,Clear,Main Road,Low
+2,Wednesday,477,Clear,Residential,Low
+12,Tuesday,753,Clear,Main Road,Medium
+22,Tuesday,102,Clear,Residential,Low
+17,Tuesday,268,Clear,Highway,Low
+3,Tuesday,955,Rainy,Main Road,Medium
+23,Saturday,488,Rainy,Main Road,Low
+23,Monday,548,Clear,Main Road,Low
+4,Friday,676,Cloudy,Main Road,Low
+19,Sunday,554,Cloudy,Main Road,Medium
+9,Saturday,923,Rainy,Residential,Medium
+14,Wednesday,332,Clear,Main Road,Low
+10,Monday,922,Clear,Highway,High
+18,Saturday,291,Clear,Main Road,Low
+23,Monday,476,Clear,Main Road,Low
+19,Friday,726,Clear,Main Road,Medium
+22,Friday,1069,Rainy,Main Road,High
+22,Tuesday,317,Rainy,Main Road,Low
+2,Saturday,726,Clear,Main Road,Low
+6,Tuesday,123,Clear,Residential,Low
+17,Tuesday,136,Clear,Main Road,Low
+14,Saturday,933,Cloudy,Main Road,Medium
+1,Sunday,877,Cloudy,Main Road,Low
+2,Tuesday,483,Clear,Residential,Low
+12,Sunday,767,Rainy,Main Road,Medium
+14,Sunday,487,Foggy,Residential,Low
+4,Saturday,369,Cloudy,Highway,Low
+4,Monday,546,Cloudy,Main Road,Low
+3,Wednesday,408,Cloudy,Main Road,Low
+13,Friday,988,Clear,Main Road,High
+0,Sunday,523,Clear,Main Road,Low
+13,Saturday,419,Cloudy,Main Road,Low
+11,Wednesday,667,Clear,Main Road,Medium
+11,Tuesday,922,Rainy,Residential,Medium
+16,Sunday,364,Clear,Main Road,Low
+12,Tuesday,1131,Clear,Highway,Medium
+17,Wednesday,583,Clear,Main Road,Medium
+18,Sunday,810,Foggy,Main Road,Medium
+22,Thursday,1151,Clear,Highway,Medium
+19,Tuesday,546,Clear,Main Road,Medium
+12,Monday,279,Clear,Main Road,Low
+11,Thursday,910,Cloudy,Highway,Medium
+5,Sunday,57,Foggy,Main Road,Low
+14,Thursday,577,Clear,Main Road,Low
+3,Friday,1177,Rainy,Residential,High
+22,Tuesday,527,Clear,Main Road,Low
+20,Saturday,837,Cloudy,Highway,Low
+2,Saturday,654,Clear,Residential,Low
+18,Friday,297,Cloudy,Main Road,Low
+2,Saturday,415,Cloudy,Highway,Low
+17,Friday,652,Cloudy,Residential,Medium
+2,Wednesday,169,Clear,Highway,Low
+11,Saturday,527,Rainy,Residential,Low
+15,Saturday,527,Foggy,Main Road,Low
+17,Saturday,1010,Clear,Residential,Medium
+10,Tuesday,192,Cloudy,Residential,Low
+22,Friday,1019,Rainy,Main Road,Medium
+18,Monday,522,Clear,Residential,Low
+4,Friday,799,Rainy,Main Road,Medium
+16,Thursday,691,Clear,Main Road,Low
+17,Wednesday,395,Rainy,Main Road,Medium
+8,Sunday,1121,Clear,Highway,Medium
+17,Sunday,308,Clear,Highway,Low
+21,Monday,91,Cloudy,Highway,Low
+19,Tuesday,913,Cloudy,Highway,High
+18,Tuesday,765,Rainy,Main Road,Medium
+15,Sunday,1075,Foggy,Residential,Medium
+6,Thursday,576,Clear,Main Road,Low
+19,Saturday,69,Clear,Residential,Low
+8,Saturday,73,Clear,Residential,Low
+12,Saturday,548,Clear,Main Road,Low
+7,Monday,337,Cloudy,Main Road,Medium
+7,Monday,1111,Rainy,Residential,Medium
+3,Wednesday,186,Rainy,Main Road,Low
+23,Wednesday,1063,Clear,Main Road,Medium
+3,Saturday,299,Clear,Residential,Low
+2,Tuesday,187,Cloudy,Main Road,Low
+22,Wednesday,366,Clear,Main Road,Low
+13,Tuesday,215,Clear,Residential,Low
+10,Tuesday,511,Clear,Main Road,Medium
+17,Tuesday,430,Clear,Residential,Low
+9,Tuesday,658,Clear,Highway,Medium
+3,Thursday,668,Rainy,Highway,Medium
+17,Wednesday,51,Clear,Main Road,Low
+4,Thursday,193,Cloudy,Highway,Low
+13,Thursday,236,Cloudy,Residential,Low
+22,Saturday,274,Rainy,Highway,Low
+22,Sunday,157,Clear,Main Road,Low
+8,Thursday,412,Clear,Highway,Low
+18,Friday,682,Clear,Residential,Medium
+14,Saturday,405,Clear,Main Road,Low
+11,Friday,428,Clear,Highway,Low
+3,Monday,590,Rainy,Highway,Low
+9,Sunday,681,Clear,Main Road,Medium
+15,Tuesday,430,Clear,Residential,Low
+23,Wednesday,305,Clear,Residential,Low
+0,Friday,521,Rainy,Main Road,Low
+17,Wednesday,77,Rainy,Main Road,Low
+20,Tuesday,616,Rainy,Highway,Medium
+22,Sunday,1133,Cloudy,Main Road,Medium
+10,Monday,508,Cloudy,Main Road,Medium
+2,Tuesday,174,Cloudy,Main Road,Low
+6,Sunday,863,Clear,Main Road,Low
+20,Saturday,196,Cloudy,Residential,Low
+21,Monday,272,Rainy,Highway,Low
+15,Saturday,218,Clear,Highway,Low
+2,Sunday,1067,Cloudy,Highway,Medium
+2,Monday,1179,Cloudy,Highway,Medium
+11,Wednesday,705,Cloudy,Highway,Low
+14,Thursday,760,Clear,Main Road,Medium
+0,Monday,792,Cloudy,Highway,Low
+16,Tuesday,752,Rainy,Main Road,Medium
+13,Tuesday,676,Clear,Residential,Low
+0,Tuesday,1185,Clear,Residential,Medium
+2,Wednesday,893,Clear,Main Road,Medium
+10,Thursday,151,Clear,Highway,Low
+17,Tuesday,501,Foggy,Highway,Medium
+19,Wednesday,1171,Cloudy,Highway,Medium
+10,Tuesday,514,Clear,Residential,Low
+7,Saturday,284,Clear,Residential,Low
+23,Tuesday,1049,Foggy,Main Road,Medium
+11,Sunday,767,Clear,Main Road,Medium
+7,Thursday,697,Cloudy,Main Road,Medium
+10,Saturday,533,Clear,Main Road,Low
+0,Friday,193,Clear,Residential,Low
+7,Tuesday,491,Cloudy,Highway,Medium
+12,Friday,553,Clear,Main Road,Low
+22,Tuesday,1121,Cloudy,Main Road,Medium
+17,Monday,403,Clear,Highway,Low
+18,Tuesday,221,Rainy,Main Road,Low
+13,Tuesday,542,Rainy,Residential,Medium
+2,Monday,1197,Cloudy,Highway,Medium
+9,Monday,605,Clear,Main Road,Medium
+23,Sunday,486,Cloudy,Main Road,Low
+1,Thursday,817,Foggy,Highway,Low
+21,Wednesday,796,Clear,Highway,Low
+16,Sunday,394,Clear,Main Road,Low
+6,Tuesday,1164,Rainy,Highway,Medium
+18,Wednesday,732,Clear,Main Road,Medium
+20,Saturday,116,Cloudy,Residential,Low
+1,Friday,519,Rainy,Main Road,Low
+2,Wednesday,1112,Clear,Residential,Medium
+15,Tuesday,502,Cloudy,Main Road,Medium
+23,Monday,703,Cloudy,Main Road,Low
+0,Monday,755,Clear,Main Road,Low
+15,Tuesday,860,Rainy,Highway,Low
+3,Saturday,1054,Clear,Main Road,Medium
+15,Friday,221,Clear,Main Road,Low
+14,Thursday,644,Rainy,Residential,Low
+2,Saturday,663,Clear,Main Road,Medium
+16,Tuesday,225,Rainy,Highway,Low
+21,Tuesday,825,Clear,Residential,Medium
+20,Wednesday,185,Cloudy,Highway,Low
+0,Sunday,575,Clear,Residential,Low
+5,Friday,430,Cloudy,Residential,Low
+5,Saturday,228,Rainy,Residential,Low
+10,Tuesday,996,Rainy,Residential,Medium
+3,Saturday,330,Foggy,Highway,Low
+20,Monday,343,Cloudy,Main Road,Medium
+18,Tuesday,1033,Rainy,Residential,High
+19,Thursday,1059,Cloudy,Main Road,High
+4,Monday,89,Rainy,Main Road,Low
+0,Sunday,369,Cloudy,Highway,Low
+21,Sunday,865,Rainy,Main Road,Medium
+6,Thursday,945,Clear,Main Road,Medium
+15,Wednesday,1200,Cloudy,Main Road,High
+21,Monday,688,Cloudy,Residential,Low
+0,Friday,58,Clear,Residential,Low
+0,Thursday,1055,Clear,Main Road,Medium
+0,Saturday,235,Foggy,Main Road,Low
+3,Friday,189,Clear,Main Road,Low
+1,Monday,825,Clear,Main Road,Medium
+19,Monday,744,Clear,Highway,Medium
+14,Saturday,119,Clear,Highway,Low
+23,Tuesday,244,Cloudy,Main Road,Low
+19,Sunday,728,Rainy,Main Road,Medium
+23,Monday,343,Foggy,Main Road,Medium
+5,Saturday,837,Cloudy,Highway,Low
+6,Sunday,523,Cloudy,Main Road,Low
+20,Thursday,726,Clear,Highway,Medium
+5,Monday,596,Rainy,Main Road,Low
+1,Sunday,470,Clear,Main Road,Low
+16,Tuesday,444,Clear,Main Road,Low
+19,Thursday,852,Foggy,Highway,Medium
+23,Sunday,642,Rainy,Residential,Low
+22,Saturday,734,Clear,Main Road,Low
+2,Monday,714,Cloudy,Main Road,Medium
+18,Saturday,288,Clear,Main Road,Low
+20,Tuesday,1101,Clear,Residential,High
+16,Saturday,698,Clear,Residential,Low
+19,Friday,876,Clear,Main Road,Medium
+20,Wednesday,1065,Cloudy,Main Road,High
+10,Wednesday,1114,Clear,Highway,Medium
+0,Monday,817,Cloudy,Main Road,Low
+10,Sunday,955,Clear,Main Road,High
+4,Tuesday,593,Foggy,Highway,Low
+2,Wednesday,899,Cloudy,Residential,Medium
+2,Thursday,420,Rainy,Residential,Low
+16,Friday,869,Clear,Main Road,Medium
+12,Thursday,148,Cloudy,Residential,Low
+12,Thursday,1102,Rainy,Main Road,Medium
+17,Friday,331,Clear,Main Road,Low
+13,Sunday,805,Clear,Residential,Low
+15,Wednesday,62,Clear,Main Road,Low
+2,Saturday,229,Clear,Main Road,Low
+20,Saturday,1185,Clear,Main Road,High
+10,Sunday,1009,Clear,Highway,Medium
+3,Sunday,306,Clear,Main Road,Low
+19,Saturday,200,Cloudy,Main Road,Low
+17,Tuesday,987,Clear,Main Road,Medium
+1,Saturday,1189,Clear,Highway,Medium
+4,Saturday,244,Cloudy,Highway,Low
+0,Wednesday,814,Clear,Main Road,Medium
+6,Friday,376,Clear,Highway,Low
+2,Tuesday,906,Clear,Main Road,Medium
+17,Thursday,531,Clear,Main Road,Medium
+12,Saturday,194,Clear,Residential,Low
+23,Tuesday,423,Clear,Highway,Low
+17,Wednesday,669,Clear,Residential,Medium
+14,Saturday,968,Foggy,Main Road,Medium
+12,Thursday,74,Rainy,Main Road,Low
+1,Sunday,1152,Clear,Residential,Medium
+1,Monday,797,Clear,Main Road,Low
+14,Saturday,1057,Clear,Main Road,Medium
+0,Saturday,1120,Rainy,Main Road,High
+1,Sunday,226,Rainy,Main Road,Low
+5,Tuesday,157,Clear,Residential,Low
+21,Sunday,943,Clear,Main Road,Medium
+11,Wednesday,266,Clear,Residential,Low
+17,Wednesday,220,Rainy,Main Road,Low
+9,Wednesday,589,Rainy,Residential,Medium
+4,Friday,1101,Clear,Residential,Medium
+8,Friday,965,Cloudy,Highway,High
+2,Thursday,646,Clear,Highway,Medium
+18,Monday,276,Cloudy,Main Road,Medium
+4,Sunday,437,Rainy,Main Road,Low
+9,Tuesday,842,Clear,Main Road,Medium
+23,Monday,230,Clear,Residential,Low
+14,Friday,653,Cloudy,Residential,Low
+11,Wednesday,63,Clear,Main Road,Low
+13,Friday,424,Rainy,Main Road,Low
+18,Sunday,335,Clear,Highway,Low
+6,Monday,833,Rainy,Main Road,Medium
+15,Tuesday,1102,Clear,Highway,Medium
+20,Thursday,218,Clear,Main Road,Low
+13,Saturday,967,Clear,Main Road,Medium
+10,Friday,804,Clear,Main Road,Medium
+3,Wednesday,1166,Clear,Main Road,Medium
+5,Friday,1099,Cloudy,Main Road,Medium
+22,Sunday,165,Clear,Highway,Low
+12,Thursday,905,Clear,Highway,Medium
+7,Sunday,731,Clear,Residential,Low
+10,Saturday,180,Clear,Residential,Low
+13,Wednesday,345,Rainy,Main Road,Medium
+12,Tuesday,1116,Foggy,Main Road,Medium
+16,Saturday,674,Clear,Main Road,Low
+6,Tuesday,439,Rainy,Main Road,Low
+15,Wednesday,418,Rainy,Main Road,Low
+10,Tuesday,1014,Foggy,Highway,High
+22,Friday,376,Clear,Main Road,Low
+3,Wednesday,232,Clear,Main Road,Low
+3,Friday,710,Clear,Main Road,Low
+11,Sunday,1192,Rainy,Highway,Medium
+12,Saturday,260,Cloudy,Main Road,Low
+16,Sunday,343,Clear,Main Road,Low
+9,Monday,589,Clear,Main Road,Medium
+21,Thursday,279,Cloudy,Main Road,Low
+11,Tuesday,799,Rainy,Main Road,Medium
+3,Sunday,341,Clear,Residential,Low
+2,Friday,197,Cloudy,Residential,Low
+23,Wednesday,350,Clear,Highway,Low
+3,Thursday,1121,Clear,Residential,Medium
+22,Friday,1126,Cloudy,Main Road,Medium
+6,Thursday,632,Rainy,Main Road,Medium
+2,Thursday,510,Foggy,Main Road,Low
+7,Monday,993,Clear,Main Road,High
+14,Thursday,273,Clear,Highway,Low
+10,Wednesday,802,Clear,Residential,Medium
+18,Saturday,832,Clear,Main Road,Medium
+14,Sunday,867,Clear,Main Road,Low
+9,Saturday,300,Clear,Main Road,Low
+15,Monday,874,Clear,Highway,Low
+23,Saturday,754,Clear,Highway,Low
+9,Wednesday,1057,Clear,Main Road,High
+3,Wednesday,250,Rainy,Main Road,Low
+9,Sunday,756,Clear,Residential,Medium
+20,Sunday,1004,Cloudy,Main Road,Medium
+5,Monday,370,Rainy,Main Road,Low
+22,Wednesday,906,Cloudy,Residential,Medium
+14,Saturday,164,Clear,Highway,Low
+14,Thursday,876,Clear,Main Road,Medium
+7,Tuesday,747,Cloudy,Main Road,Medium
+22,Thursday,271,Cloudy,Main Road,Low
+0,Sunday,126,Clear,Highway,Low
+7,Tuesday,908,Clear,Highway,Medium
+10,Saturday,327,Cloudy,Highway,Low
+11,Saturday,622,Clear,Main Road,Low
+11,Sunday,119,Cloudy,Highway,Low
+3,Wednesday,1158,Clear,Main Road,Medium
+5,Tuesday,681,Clear,Highway,Low
+2,Thursday,1122,Rainy,Highway,Medium
+13,Thursday,234,Clear,Main Road,Low
+8,Wednesday,286,Cloudy,Highway,Low
+13,Saturday,752,Clear,Residential,Low
+14,Saturday,745,Clear,Main Road,Low
+16,Tuesday,960,Rainy,Highway,Medium
+13,Saturday,1118,Clear,Highway,Medium
+15,Tuesday,995,Clear,Main Road,Medium
+14,Wednesday,211,Rainy,Main Road,Low
+15,Monday,406,Rainy,Residential,Low
+14,Wednesday,1101,Cloudy,Main Road,Medium
+7,Sunday,681,Clear,Main Road,Low
+5,Thursday,1047,Clear,Main Road,Medium
+18,Friday,698,Cloudy,Residential,Low
+8,Monday,107,Clear,Main Road,Low
+13,Friday,594,Clear,Main Road,Medium
+4,Wednesday,999,Rainy,Main Road,Medium
+10,Saturday,804,Clear,Residential,Medium
+12,Sunday,202,Clear,Main Road,Low
+15,Thursday,291,Clear,Residential,Low
+12,Monday,1033,Clear,Residential,Medium
+8,Thursday,1177,Cloudy,Highway,High
+23,Monday,916,Rainy,Residential,Medium
+12,Thursday,162,Clear,Main Road,Low
+19,Monday,762,Clear,Main Road,Medium
+17,Friday,1004,Cloudy,Main Road,High
+13,Wednesday,786,Clear,Residential,Medium
+21,Tuesday,733,Cloudy,Main Road,Low
+3,Monday,587,Rainy,Main Road,Low
+22,Sunday,331,Cloudy,Highway,Low
+20,Saturday,373,Clear,Main Road,Low
+12,Saturday,908,Foggy,Residential,Medium
+17,Monday,130,Clear,Main Road,Medium
+12,Wednesday,147,Foggy,Highway,Low
+6,Sunday,506,Cloudy,Residential,Low
+19,Friday,941,Cloudy,Residential,Medium
+5,Monday,806,Rainy,Main Road,Medium
+7,Monday,729,Cloudy,Highway,Medium
+12,Tuesday,664,Clear,Main Road,Low
+20,Sunday,177,Clear,Highway,Low
+9,Tuesday,431,Cloudy,Main Road,Medium
+11,Sunday,141,Cloudy,Main Road,Low
+0,Friday,922,Clear,Residential,Medium
+2,Sunday,914,Cloudy,Main Road,Medium
+1,Saturday,347,Cloudy,Residential,Low
+1,Wednesday,387,Clear,Residential,Low
+20,Saturday,415,Clear,Highway,Low
+20,Tuesday,1073,Clear,Highway,Medium
+19,Wednesday,612,Clear,Main Road,Medium
+1,Tuesday,927,Clear,Residential,Medium
+1,Monday,566,Clear,Main Road,Medium
+6,Monday,853,Clear,Main Road,Low
+13,Tuesday,658,Clear,Main Road,Low
+8,Monday,370,Cloudy,Main Road,Low
+11,Wednesday,1058,Clear,Main Road,Medium
+4,Monday,865,Foggy,Highway,Medium
+17,Monday,935,Rainy,Highway,High
+7,Sunday,1141,Cloudy,Highway,High
+1,Monday,336,Foggy,Residential,Low
+17,Monday,155,Rainy,Residential,Medium
+21,Monday,720,Clear,Residential,Low
+0,Monday,425,Rainy,Highway,Low
+10,Thursday,551,Clear,Main Road,Medium
+19,Saturday,320,Cloudy,Highway,Low
+16,Saturday,508,Cloudy,Main Road,Low
+20,Friday,502,Clear,Main Road,Medium
+9,Monday,453,Clear,Residential,Medium
+8,Saturday,904,Foggy,Highway,Medium
+17,Monday,732,Clear,Main Road,Medium
+3,Friday,595,Clear,Residential,Low
+5,Wednesday,179,Clear,Main Road,Low
+14,Sunday,706,Clear,Highway,Low
+16,Wednesday,251,Rainy,Residential,Low
+2,Friday,411,Rainy,Main Road,Low
+12,Thursday,527,Clear,Main Road,Low
+8,Thursday,212,Clear,Main Road,Low
+12,Sunday,498,Clear,Residential,Low
+23,Friday,357,Clear,Main Road,Low
+1,Wednesday,1028,Rainy,Main Road,Medium
+23,Thursday,1039,Cloudy,Main Road,Medium
+10,Friday,55,Clear,Highway,Low
+18,Wednesday,743,Cloudy,Residential,Medium
+10,Tuesday,787,Clear,Highway,Medium
+7,Thursday,485,Cloudy,Main Road,Medium
+18,Monday,589,Cloudy,Main Road,Medium
+16,Tuesday,959,Cloudy,Main Road,Medium
+3,Wednesday,485,Cloudy,Main Road,Medium
+16,Saturday,124,Foggy,Main Road,Low
+18,Saturday,478,Clear,Main Road,Medium
+9,Tuesday,342,Clear,Highway,Low
+22,Wednesday,490,Clear,Residential,Low
+15,Tuesday,314,Cloudy,Residential,Low
+8,Saturday,222,Cloudy,Main Road,Low
+0,Tuesday,1184,Cloudy,Main Road,High
+16,Saturday,198,Cloudy,Highway,Low
+5,Saturday,862,Clear,Highway,Medium
+18,Friday,875,Cloudy,Main Road,High
+12,Wednesday,761,Cloudy,Residential,Medium
+11,Sunday,1099,Clear,Main Road,Medium
+3,Friday,55,Clear,Main Road,Low
+17,Friday,397,Clear,Residential,Low
+3,Saturday,262,Clear,Main Road,Low
+10,Sunday,714,Rainy,Main Road,Medium
+20,Monday,781,Rainy,Main Road,High
+22,Sunday,1083,Cloudy,Highway,Medium
+23,Saturday,487,Clear,Residential,Low
+22,Tuesday,321,Cloudy,Main Road,Low
+13,Wednesday,1113,Rainy,Main Road,High
+4,Saturday,824,Clear,Main Road,Medium
+20,Tuesday,930,Rainy,Residential,High
+19,Thursday,562,Clear,Main Road,Medium
+23,Friday,564,Clear,Main Road,Medium
+15,Friday,497,Clear,Highway,Low
+3,Sunday,912,Clear,Residential,Medium
+12,Monday,292,Rainy,Main Road,Low
+10,Wednesday,1172,Clear,Main Road,High
+20,Sunday,252,Clear,Residential,Low
+9,Thursday,580,Clear,Highway,Low
+7,Tuesday,412,Clear,Main Road,Low
+1,Wednesday,789,Clear,Main Road,Medium
+20,Wednesday,833,Clear,Main Road,Medium
+18,Thursday,1107,Cloudy,Main Road,High
+0,Tuesday,958,Clear,Main Road,Medium
+10,Friday,336,Rainy,Highway,Medium
+11,Thursday,287,Clear,Highway,Low
+11,Friday,1070,Rainy,Highway,Medium
+22,Tuesday,611,Rainy,Residential,Low
+3,Friday,162,Clear,Main Road,Low
+7,Sunday,999,Clear,Main Road,Medium
+4,Monday,796,Foggy,Main Road,Medium
+5,Wednesday,79,Clear,Main Road,Low
+21,Friday,951,Cloudy,Highway,Medium
+22,Friday,749,Clear,Main Road,Medium
+1,Friday,757,Clear,Main Road,Medium
+15,Thursday,1045,Cloudy,Main Road,High
+5,Friday,620,Rainy,Residential,Low
+4,Friday,580,Clear,Residential,Low
+7,Monday,760,Rainy,Residential,Medium
+4,Saturday,277,Cloudy,Highway,Low
+11,Thursday,224,Clear,Highway,Low
+23,Monday,1021,Clear,Highway,Medium
+14,Wednesday,298,Clear,Residential,Low
+17,Thursday,630,Clear,Residential,Medium
+11,Monday,360,Cloudy,Residential,Low
+0,Sunday,315,Clear,Main Road,Low
+2,Tuesday,738,Clear,Residential,Low
+6,Wednesday,973,Cloudy,Main Road,Medium
+5,Thursday,558,Cloudy,Residential,Low
+20,Saturday,209,Cloudy,Main Road,Low
+20,Saturday,331,Cloudy,Highway,Low
+20,Saturday,239,Clear,Highway,Low
+15,Tuesday,1066,Cloudy,Residential,Medium
+13,Saturday,417,Clear,Main Road,Low
+15,Saturday,480,Clear,Main Road,Medium
+9,Thursday,131,Clear,Main Road,Low
+16,Thursday,563,Cloudy,Main Road,Low
+19,Monday,1101,Cloudy,Residential,High
+18,Saturday,521,Clear,Highway,Medium
+14,Sunday,799,Rainy,Highway,Low
+1,Thursday,259,Rainy,Residential,Low
+17,Thursday,214,Clear,Main Road,Low
+8,Thursday,892,Cloudy,Highway,Medium
+17,Monday,125,Clear,Highway,Low
+12,Friday,566,Foggy,Highway,Medium
+21,Saturday,414,Clear,Main Road,Low
+8,Sunday,68,Clear,Highway,Low
+22,Sunday,661,Clear,Highway,Low
+20,Thursday,1159,Clear,Main Road,Medium
+7,Sunday,129,Cloudy,Residential,Low
+11,Thursday,988,Cloudy,Residential,Medium
+12,Friday,670,Clear,Main Road,Medium
+18,Friday,882,Cloudy,Main Road,High
+16,Sunday,161,Rainy,Residential,Low
+20,Saturday,1050,Rainy,Residential,High
+8,Monday,63,Cloudy,Main Road,Low
+12,Monday,1093,Clear,Main Road,Medium
+10,Wednesday,807,Clear,Main Road,Medium
+21,Thursday,438,Rainy,Main Road,Medium
+7,Friday,58,Cloudy,Main Road,Low
+14,Thursday,753,Cloudy,Highway,Medium
+2,Thursday,150,Rainy,Residential,Low
+20,Sunday,750,Clear,Main Road,Medium
+9,Wednesday,939,Cloudy,Main Road,High
+8,Thursday,357,Clear,Highway,Low
+13,Thursday,324,Clear,Residential,Low
+11,Thursday,305,Clear,Main Road,Low
+20,Sunday,308,Clear,Highway,Low
+12,Sunday,181,Foggy,Main Road,Low
+12,Thursday,337,Clear,Main Road,Low
+2,Thursday,808,Rainy,Residential,Medium
+0,Friday,398,Rainy,Highway,Low
+9,Tuesday,948,Cloudy,Residential,High
+23,Wednesday,993,Rainy,Main Road,Medium
+22,Tuesday,925,Clear,Highway,Medium
+15,Tuesday,670,Clear,Highway,Low
+15,Monday,414,Clear,Highway,Low
+9,Friday,1120,Clear,Main Road,Medium
+4,Monday,286,Rainy,Main Road,Low
+0,Friday,584,Clear,Main Road,Low
+8,Thursday,572,Clear,Highway,Medium
+7,Wednesday,908,Clear,Residential,High
+4,Saturday,679,Cloudy,Highway,Low
+6,Thursday,970,Cloudy,Main Road,Medium
+0,Saturday,1107,Clear,Residential,Medium
+14,Friday,499,Rainy,Residential,Low
+22,Monday,1056,Cloudy,Main Road,Medium
+16,Tuesday,245,Rainy,Main Road,Low
+10,Thursday,1104,Clear,Highway,High
+10,Sunday,254,Cloudy,Highway,Low
+7,Tuesday,1028,Clear,Main Road,High
+3,Monday,499,Clear,Highway,Low
+14,Sunday,1160,Cloudy,Main Road,Medium
+13,Sunday,198,Cloudy,Highway,Low
+0,Tuesday,585,Clear,Residential,Low
+9,Wednesday,1088,Rainy,Residential,High
+6,Friday,104,Clear,Residential,Low
+4,Tuesday,355,Cloudy,Main Road,Medium
+16,Wednesday,146,Foggy,Highway,Low
+12,Wednesday,419,Cloudy,Highway,Low
+15,Friday,499,Rainy,Main Road,Medium
+17,Wednesday,762,Cloudy,Main Road,High
+23,Wednesday,346,Rainy,Main Road,Medium
+19,Wednesday,232,Cloudy,Main Road,Low
+14,Saturday,245,Cloudy,Main Road,Low
+21,Tuesday,1130,Clear,Highway,Medium
+11,Tuesday,1147,Rainy,Main Road,High
+23,Tuesday,304,Clear,Main Road,Low
+18,Sunday,274,Foggy,Main Road,Low
+15,Sunday,112,Clear,Residential,Low
+21,Thursday,1154,Clear,Main Road,Medium
+12,Tuesday,862,Rainy,Main Road,Medium
+17,Saturday,925,Clear,Residential,Medium
+6,Thursday,384,Clear,Highway,Low
+23,Saturday,787,Cloudy,Main Road,Medium
+14,Wednesday,118,Clear,Main Road,Low
+18,Sunday,828,Clear,Main Road,Medium
+11,Saturday,717,Cloudy,Highway,Low
+20,Tuesday,431,Clear,Residential,Medium
+1,Saturday,867,Clear,Residential,Medium
+2,Wednesday,794,Clear,Highway,Medium
+12,Wednesday,555,Clear,Highway,Low
+17,Tuesday,264,Clear,Highway,Low
+19,Friday,77,Clear,Residential,Low
+10,Tuesday,1129,Cloudy,Main Road,High
+15,Friday,373,Cloudy,Highway,Low
+13,Friday,397,Clear,Residential,Low
+23,Saturday,833,Clear,Main Road,Medium
+15,Sunday,343,Rainy,Main Road,Low
+10,Monday,482,Cloudy,Main Road,Medium
+23,Sunday,868,Clear,Main Road,Low
+2,Monday,735,Clear,Main Road,Medium
+23,Thursday,805,Clear,Main Road,Medium
+3,Wednesday,55,Rainy,Main Road,Low
+6,Friday,569,Rainy,Residential,Medium
+19,Saturday,597,Rainy,Main Road,Medium
+17,Sunday,777,Clear,Residential,Medium
+23,Wednesday,224,Clear,Main Road,Low
+17,Sunday,233,Clear,Residential,Low
+15,Wednesday,927,Clear,Main Road,Medium
+8,Tuesday,825,Clear,Residential,Medium
+0,Wednesday,983,Cloudy,Main Road,Medium
+2,Thursday,361,Clear,Highway,Low
+7,Friday,1198,Rainy,Highway,High
+0,Saturday,364,Clear,Highway,Low
+12,Tuesday,799,Clear,Residential,Medium
+18,Wednesday,236,Rainy,Residential,Low
+23,Sunday,1107,Cloudy,Residential,Medium
+11,Thursday,432,Clear,Highway,Low
+21,Tuesday,973,Cloudy,Residential,Medium
+23,Sunday,431,Clear,Main Road,Low
+20,Thursday,960,Clear,Main Road,High
+11,Sunday,572,Clear,Main Road,Low
+7,Sunday,121,Clear,Main Road,Low
+23,Sunday,269,Cloudy,Highway,Low
+5,Friday,836,Clear,Main Road,Medium
+9,Saturday,272,Cloudy,Main Road,Low
+1,Sunday,366,Rainy,Highway,Low
+19,Tuesday,673,Clear,Main Road,Medium
+15,Monday,341,Clear,Main Road,Low
+2,Wednesday,198,Clear,Main Road,Low
+5,Friday,768,Rainy,Residential,Medium
+13,Thursday,842,Cloudy,Residential,Low
+12,Monday,893,Cloudy,Main Road,Medium
+19,Thursday,1136,Clear,Main Road,Medium
+6,Tuesday,193,Clear,Main Road,Low
+22,Thursday,541,Cloudy,Main Road,Low
+10,Friday,319,Clear,Highway,Low
+19,Friday,1087,Cloudy,Main Road,High
+5,Wednesday,671,Clear,Main Road,Medium
+0,Wednesday,163,Clear,Main Road,Low
+1,Friday,846,Cloudy,Residential,Medium
+8,Saturday,99,Cloudy,Main Road,Low
+22,Saturday,365,Cloudy,Main Road,Low
+1,Wednesday,880,Clear,Highway,Medium
+8,Wednesday,632,Rainy,Highway,Medium
+2,Wednesday,925,Rainy,Main Road,Medium
+22,Thursday,707,Rainy,Main Road,Medium
+16,Monday,1020,Cloudy,Highway,Medium
+18,Thursday,697,Cloudy,Highway,Medium
+17,Tuesday,115,Cloudy,Highway,Low
+15,Thursday,132,Clear,Residential,Low
+18,Saturday,944,Clear,Residential,Medium
+0,Sunday,94,Cloudy,Main Road,Low
+20,Thursday,483,Clear,Highway,Low
+17,Monday,68,Clear,Highway,Low
+17,Tuesday,399,Rainy,Highway,Medium
+9,Monday,735,Clear,Main Road,Medium
+19,Saturday,249,Cloudy,Highway,Low
+9,Sunday,586,Cloudy,Main Road,Low
+1,Thursday,1196,Clear,Residential,Medium
+21,Tuesday,131,Rainy,Main Road,Low
+5,Monday,123,Clear,Residential,Low
+2,Sunday,362,Rainy,Highway,Low
+14,Wednesday,1001,Rainy,Main Road,Medium
+5,Monday,517,Clear,Residential,Low
+20,Tuesday,786,Clear,Main Road,Medium
+10,Tuesday,88,Clear,Main Road,Low
+0,Friday,896,Clear,Residential,Medium
+22,Sunday,127,Clear,Main Road,Low
+12,Tuesday,869,Foggy,Main Road,Medium
+6,Friday,220,Clear,Main Road,Low
+16,Monday,1038,Rainy,Highway,Medium
+12,Monday,390,Clear,Highway,Low
+0,Monday,261,Foggy,Highway,Low
+18,Sunday,437,Clear,Residential,Low
+9,Friday,50,Clear,Main Road,Low
+16,Saturday,240,Cloudy,Main Road,Low
+21,Monday,738,Clear,Highway,Low
+14,Monday,396,Rainy,Main Road,Low
+16,Saturday,457,Clear,Residential,Low
+6,Monday,979,Cloudy,Main Road,Medium
+5,Tuesday,192,Cloudy,Main Road,Low
+9,Thursday,505,Cloudy,Residential,Low
+20,Friday,264,Clear,Residential,Low
+12,Tuesday,605,Clear,Residential,Low
+8,Thursday,431,Clear,Main Road,Medium
+18,Friday,103,Clear,Highway,Low
+20,Thursday,130,Clear,Main Road,Low
+21,Wednesday,1031,Rainy,Main Road,Medium
+7,Monday,115,Cloudy,Residential,Low
+17,Thursday,950,Cloudy,Highway,Medium
+14,Saturday,1104,Clear,Main Road,Medium
+10,Friday,586,Clear,Residential,Medium
+9,Sunday,409,Cloudy,Residential,Low
+2,Monday,943,Clear,Main Road,Medium
+6,Monday,1180,Clear,Residential,Medium
+13,Thursday,188,Clear,Highway,Low
+21,Tuesday,1159,Cloudy,Main Road,High
+20,Friday,1136,Foggy,Highway,High
+4,Sunday,214,Clear,Residential,Low
+16,Wednesday,113,Cloudy,Residential,Low
+2,Thursday,872,Clear,Highway,Medium
+16,Friday,139,Clear,Highway,Low
+8,Tuesday,741,Cloudy,Main Road,Medium
+10,Sunday,124,Clear,Main Road,Low
+17,Tuesday,844,Cloudy,Residential,Medium
+10,Saturday,316,Clear,Highway,Low
+19,Friday,160,Clear,Residential,Low
+12,Monday,126,Foggy,Main Road,Low
+23,Saturday,267,Clear,Main Road,Low
+15,Tuesday,672,Rainy,Highway,Medium
+7,Friday,138,Clear,Residential,Low
+18,Sunday,973,Foggy,Main Road,Medium
+9,Sunday,745,Clear,Main Road,Medium
+12,Sunday,392,Clear,Main Road,Low
+3,Thursday,1185,Rainy,Residential,Medium
+2,Thursday,807,Clear,Residential,Low
+13,Wednesday,823,Clear,Residential,Medium
+4,Sunday,250,Foggy,Main Road,Low
+23,Thursday,868,Cloudy,Residential,Medium
+20,Saturday,693,Cloudy,Main Road,Medium
+16,Wednesday,1183,Cloudy,Main Road,Medium
+17,Saturday,600,Rainy,Main Road,Medium
+14,Tuesday,830,Rainy,Main Road,Medium
+1,Saturday,442,Cloudy,Residential,Low
+9,Monday,96,Clear,Residential,Low
+11,Monday,197,Clear,Main Road,Low
+21,Wednesday,1047,Cloudy,Main Road,Medium
+5,Thursday,899,Rainy,Residential,Medium
+11,Friday,469,Clear,Residential,Low
+8,Wednesday,853,Clear,Residential,Medium
+3,Monday,55,Clear,Highway,Low
+2,Wednesday,92,Cloudy,Main Road,Low
+8,Thursday,633,Rainy,Residential,Medium
+1,Thursday,769,Clear,Residential,Low
+1,Friday,1128,Cloudy,Main Road,Medium
+8,Tuesday,924,Rainy,Main Road,High
+4,Friday,346,Foggy,Main Road,Low
+13,Friday,988,Clear,Main Road,Medium
+0,Saturday,615,Rainy,Residential,Low
+7,Thursday,1000,Cloudy,Main Road,Medium
+10,Saturday,250,Rainy,Main Road,Low
+23,Tuesday,80,Clear,Main Road,Low
+15,Friday,116,Cloudy,Residential,Low
+21,Monday,1190,Cloudy,Main Road,Medium
+8,Monday,142,Clear,Main Road,Low
+10,Sunday,1131,Clear,Highway,Medium
+10,Thursday,886,Cloudy,Highway,Medium
+21,Friday,218,Cloudy,Main Road,Low
+23,Friday,1044,Clear,Highway,Medium
+23,Friday,215,Clear,Residential,Low
+18,Tuesday,214,Clear,Residential,Medium
+12,Tuesday,712,Rainy,Highway,Low
+12,Monday,381,Foggy,Residential,Low
+23,Sunday,384,Clear,Main Road,Low
+6,Tuesday,274,Clear,Main Road,Low
+8,Friday,749,Clear,Residential,Medium
+21,Thursday,80,Clear,Main Road,Low
+9,Tuesday,332,Rainy,Highway,Medium
+5,Wednesday,686,Cloudy,Highway,Low
+13,Monday,610,Clear,Main Road,Low
+7,Tuesday,855,Clear,Residential,Medium
+21,Monday,298,Clear,Main Road,Low
+21,Saturday,795,Rainy,Main Road,Medium
+7,Thursday,924,Cloudy,Highway,Medium
+12,Sunday,496,Cloudy,Residential,Low
+23,Thursday,345,Clear,Main Road,Low
+17,Tuesday,688,Rainy,Main Road,Medium
+5,Friday,716,Clear,Main Road,Medium
+14,Sunday,158,Rainy,Main Road,Low
+14,Thursday,700,Rainy,Highway,Medium
+15,Monday,227,Cloudy,Main Road,Low
+0,Wednesday,704,Rainy,Main Road,Medium
+7,Sunday,1122,Clear,Main Road,Medium
+20,Thursday,668,Cloudy,Residential,Medium
+5,Sunday,926,Clear,Highway,Low
+7,Thursday,406,Clear,Main Road,Low
+7,Monday,1112,Clear,Highway,Medium
+4,Sunday,985,Clear,Highway,Medium
+3,Saturday,1105,Clear,Residential,Medium
+8,Saturday,903,Clear,Residential,Medium
+20,Sunday,797,Cloudy,Residential,Medium
+0,Tuesday,654,Clear,Highway,Low
+6,Sunday,1118,Clear,Main Road,Medium
+1,Tuesday,1026,Foggy,Main Road,Medium
+13,Sunday,529,Foggy,Residential,Medium
+6,Tuesday,148,Clear,Main Road,Low
+19,Thursday,54,Clear,Residential,Low
+14,Saturday,318,Cloudy,Highway,Low
+18,Monday,122,Rainy,Main Road,Low
+15,Monday,293,Clear,Residential,Low
+10,Saturday,176,Rainy,Main Road,Low
+20,Monday,1179,Clear,Main Road,High
+11,Friday,159,Clear,Main Road,Low
+22,Sunday,771,Cloudy,Residential,Low
+23,Friday,454,Cloudy,Highway,Low
+14,Thursday,250,Rainy,Residential,Low
+16,Wednesday,857,Clear,Main Road,Medium
+6,Friday,1167,Clear,Main Road,Medium
+19,Friday,960,Clear,Main Road,High
+16,Thursday,1172,Clear,Main Road,High
+21,Tuesday,729,Clear,Residential,Medium
+6,Friday,825,Cloudy,Residential,Medium
+18,Saturday,218,Cloudy,Residential,Low
+11,Friday,1031,Cloudy,Residential,Medium
+4,Monday,910,Clear,Main Road,Medium
+4,Friday,342,Clear,Main Road,Low
+13,Saturday,458,Cloudy,Residential,Low
+7,Tuesday,753,Clear,Highway,Medium
+2,Saturday,64,Rainy,Residential,Low
+10,Thursday,991,Clear,Main Road,Medium
+15,Thursday,372,Cloudy,Main Road,Low
+7,Saturday,136,Rainy,Main Road,Low
+22,Thursday,430,Cloudy,Main Road,Low
+18,Thursday,1011,Cloudy,Highway,High
+12,Wednesday,365,Cloudy,Main Road,Low
+22,Sunday,670,Clear,Main Road,Low
+10,Sunday,984,Cloudy,Highway,Medium
+3,Monday,88,Rainy,Highway,Low
+0,Saturday,924,Foggy,Main Road,Medium
+22,Monday,382,Clear,Main Road,Low
+23,Wednesday,850,Clear,Residential,Low
+17,Sunday,266,Rainy,Highway,Low
+2,Tuesday,209,Cloudy,Main Road,Low
+7,Wednesday,957,Clear,Highway,Medium
+0,Tuesday,979,Clear,Main Road,Medium
+1,Saturday,1179,Clear,Main Road,Medium
+5,Thursday,829,Clear,Main Road,Medium
+13,Friday,586,Clear,Main Road,Medium
+1,Sunday,274,Clear,Main Road,Low
+23,Thursday,389,Clear,Highway,Low
+10,Saturday,795,Rainy,Main Road,High
+6,Monday,448,Clear,Main Road,Low
+12,Tuesday,606,Clear,Main Road,Low
+18,Sunday,243,Clear,Main Road,Low
+7,Sunday,555,Clear,Residential,Low
+1,Friday,323,Foggy,Main Road,Low
+1,Wednesday,179,Rainy,Highway,Low
+20,Tuesday,201,Clear,Main Road,Low
+2,Saturday,646,Clear,Highway,Low
+15,Saturday,471,Clear,Main Road,Low
+9,Tuesday,165,Clear,Residential,Low
+18,Friday,641,Clear,Residential,Medium
+1,Friday,239,Clear,Main Road,Low
+21,Thursday,67,Clear,Highway,Low
+16,Sunday,202,Cloudy,Residential,Low
+10,Monday,566,Clear,Highway,Medium
+4,Tuesday,1148,Clear,Main Road,Medium
+23,Monday,328,Cloudy,Residential,Low
+7,Friday,377,Clear,Main Road,Low
+11,Friday,329,Clear,Highway,Low
+9,Sunday,458,Clear,Main Road,Medium
+5,Thursday,875,Clear,Main Road,Medium
+9,Tuesday,420,Clear,Highway,Low
+3,Thursday,806,Rainy,Main Road,Medium
+0,Monday,1083,Rainy,Main Road,Medium
+6,Friday,1139,Clear,Main Road,Medium
+2,Friday,697,Clear,Highway,Low
+9,Sunday,870,Cloudy,Residential,Medium
+20,Wednesday,1107,Cloudy,Main Road,High
+3,Wednesday,955,Clear,Main Road,Medium
+0,Monday,395,Clear,Main Road,Low
+2,Wednesday,201,Clear,Highway,Low
+12,Thursday,182,Cloudy,Main Road,Low
+6,Saturday,1065,Clear,Main Road,Medium
+11,Saturday,690,Clear,Main Road,Low
+0,Monday,391,Clear,Residential,Low
+7,Tuesday,447,Clear,Residential,Low
+9,Thursday,374,Clear,Residential,Low
+10,Wednesday,972,Cloudy,Main Road,High
+13,Monday,754,Cloudy,Main Road,Medium
+18,Saturday,1062,Clear,Main Road,High
+11,Saturday,397,Clear,Main Road,Low
+20,Thursday,593,Rainy,Residential,High
+12,Wednesday,190,Clear,Residential,Low
+6,Saturday,1168,Clear,Main Road,Medium
+5,Monday,639,Clear,Residential,Medium
+7,Thursday,686,Rainy,Residential,Medium
+14,Saturday,526,Rainy,Main Road,Low
+5,Sunday,361,Rainy,Residential,Low
+21,Tuesday,1141,Cloudy,Highway,Medium
+11,Friday,612,Clear,Highway,Low
+20,Tuesday,826,Clear,Main Road,Medium
+16,Monday,92,Clear,Main Road,Low
+8,Wednesday,367,Cloudy,Main Road,Medium
+5,Sunday,975,Cloudy,Residential,Medium
+17,Friday,151,Clear,Main Road,Low
+7,Thursday,166,Rainy,Main Road,Low
+5,Tuesday,982,Clear,Main Road,Medium
+22,Monday,405,Clear,Highway,Low
+11,Tuesday,365,Clear,Main Road,Low
+1,Tuesday,700,Rainy,Main Road,Medium
+11,Tuesday,274,Rainy,Residential,Low
+11,Friday,99,Cloudy,Main Road,Low
+20,Monday,55,Foggy,Highway,Low
+17,Monday,141,Rainy,Highway,Low
+4,Thursday,232,Rainy,Highway,Low
+3,Wednesday,851,Rainy,Residential,Medium
+14,Thursday,392,Clear,Main Road,Low
+1,Monday,132,Rainy,Main Road,Low
+7,Tuesday,66,Cloudy,Highway,Low
+3,Thursday,599,Cloudy,Residential,Low
+0,Friday,1016,Clear,Highway,Medium
+22,Wednesday,439,Rainy,Main Road,Low
+2,Thursday,123,Foggy,Residential,Low
+0,Thursday,312,Clear,Main Road,Low
+22,Tuesday,624,Foggy,Main Road,Medium
+4,Tuesday,267,Clear,Highway,Low
+19,Wednesday,1176,Clear,Main Road,High
+0,Monday,928,Clear,Residential,Medium
+3,Friday,446,Rainy,Main Road,Low
+2,Friday,1145,Cloudy,Residential,Medium
+16,Wednesday,424,Clear,Main Road,Low
+14,Wednesday,211,Cloudy,Highway,Low
+11,Wednesday,1129,Clear,Main Road,Medium
+5,Friday,1154,Clear,Main Road,Medium
+2,Saturday,409,Rainy,Highway,Low
+13,Monday,734,Cloudy,Main Road,Medium
+5,Wednesday,249,Rainy,Main Road,Low
+14,Monday,788,Cloudy,Main Road,Medium
+16,Thursday,844,Foggy,Highway,Low
+20,Tuesday,867,Clear,Residential,Medium
+11,Wednesday,704,Clear,Main Road,Medium
+0,Thursday,860,Clear,Main Road,Medium
+6,Wednesday,688,Cloudy,Highway,Medium
+20,Wednesday,993,Cloudy,Residential,Medium
+12,Saturday,256,Cloudy,Main Road,Low
+14,Saturday,606,Clear,Main Road,Low
+10,Monday,529,Clear,Highway,Medium
+3,Wednesday,663,Cloudy,Main Road,Low
+21,Saturday,213,Foggy,Residential,Low
+18,Thursday,422,Clear,Main Road,Low
+23,Tuesday,1148,Clear,Residential,Medium
+20,Friday,171,Clear,Highway,Low
+6,Tuesday,781,Clear,Highway,Medium
+6,Monday,815,Clear,Main Road,Low
+5,Friday,596,Clear,Main Road,Low
+22,Thursday,88,Cloudy,Main Road,Low
+13,Saturday,89,Clear,Main Road,Low
+10,Wednesday,367,Clear,Main Road,Medium
+23,Saturday,167,Clear,Main Road,Low
+14,Wednesday,158,Rainy,Main Road,Low
+21,Saturday,234,Clear,Residential,Low
+23,Monday,269,Clear,Main Road,Low
+1,Monday,1015,Clear,Main Road,Medium
+8,Saturday,785,Cloudy,Main Road,Medium
+17,Saturday,85,Rainy,Main Road,Low
+19,Sunday,773,Clear,Main Road,Medium
+3,Wednesday,207,Clear,Residential,Low
+7,Monday,534,Clear,Highway,Medium
+13,Sunday,93,Cloudy,Residential,Low
+19,Friday,153,Rainy,Highway,Low
+2,Tuesday,202,Clear,Residential,Low
+14,Saturday,548,Clear,Highway,Low
+7,Sunday,583,Rainy,Residential,Low
+5,Tuesday,456,Rainy,Main Road,Low
+12,Saturday,763,Clear,Highway,Low
+9,Saturday,879,Clear,Main Road,Medium
+15,Thursday,888,Clear,Main Road,Medium
+7,Friday,716,Rainy,Main Road,High
+19,Tuesday,677,Cloudy,Main Road,Medium
+1,Sunday,615,Cloudy,Main Road,Low
+20,Sunday,323,Rainy,Main Road,Medium
+0,Sunday,610,Clear,Main Road,Low
+17,Saturday,61,Clear,Residential,Low
+8,Monday,1162,Clear,Main Road,High
+9,Wednesday,475,Rainy,Highway,Medium
+0,Thursday,920,Cloudy,Main Road,Medium
+16,Sunday,1151,Clear,Highway,Medium
+3,Thursday,622,Clear,Main Road,Low
+15,Thursday,1041,Cloudy,Main Road,Medium
+17,Tuesday,601,Rainy,Main Road,Medium
+20,Saturday,202,Cloudy,Highway,Low
+16,Wednesday,80,Clear,Main Road,Low
+7,Monday,206,Rainy,Main Road,Medium
+17,Sunday,1134,Rainy,Residential,High
+19,Tuesday,596,Cloudy,Main Road,Medium
+7,Monday,417,Cloudy,Main Road,Medium
+2,Monday,563,Rainy,Main Road,Medium
+21,Thursday,344,Rainy,Residential,Low
+3,Monday,1052,Cloudy,Highway,Medium
+14,Saturday,1200,Clear,Highway,Medium
+5,Thursday,147,Clear,Residential,Low
+3,Wednesday,877,Rainy,Main Road,Medium
+18,Monday,436,Cloudy,Main Road,Medium
+3,Thursday,104,Clear,Highway,Low
+16,Tuesday,1111,Clear,Highway,Medium
+16,Sunday,121,Rainy,Main Road,Low
+1,Wednesday,286,Rainy,Main Road,Low
+4,Thursday,79,Foggy,Main Road,Low
+19,Monday,592,Clear,Highway,Low
+12,Monday,740,Rainy,Highway,Medium
+2,Tuesday,419,Rainy,Main Road,Low
+23,Monday,132,Clear,Main Road,Low
+6,Saturday,183,Clear,Highway,Low
+0,Sunday,1124,Foggy,Highway,Medium
+22,Sunday,977,Clear,Main Road,Medium
+0,Tuesday,1128,Cloudy,Highway,Medium
+13,Saturday,660,Cloudy,Main Road,Low
+23,Thursday,678,Cloudy,Highway,Low
+13,Monday,954,Clear,Main Road,Medium
+14,Monday,759,Cloudy,Residential,Medium
+9,Thursday,552,Clear,Residential,Medium
+3,Wednesday,385,Rainy,Residential,Low
+13,Monday,608,Clear,Main Road,Medium
+21,Sunday,123,Cloudy,Highway,Low
+2,Saturday,271,Rainy,Main Road,Low
+21,Thursday,898,Clear,Main Road,Medium
+9,Sunday,1049,Clear,Highway,Medium
+12,Sunday,167,Rainy,Main Road,Low
+3,Sunday,161,Clear,Main Road,Low
+14,Tuesday,148,Clear,Highway,Low
+4,Sunday,961,Clear,Main Road,Medium
+6,Thursday,408,Foggy,Main Road,Low
+17,Saturday,426,Cloudy,Main Road,Low
+1,Sunday,64,Clear,Residential,Low
+10,Tuesday,1169,Foggy,Highway,High
+14,Thursday,549,Clear,Highway,Low
+3,Monday,967,Clear,Main Road,Medium
+7,Tuesday,864,Clear,Main Road,Medium
+8,Wednesday,213,Clear,Main Road,Low
+15,Saturday,972,Clear,Highway,Medium
+23,Sunday,683,Cloudy,Residential,Low
+20,Wednesday,745,Clear,Main Road,Medium
+4,Wednesday,280,Cloudy,Main Road,Low
+0,Thursday,1024,Clear,Main Road,Medium
+1,Sunday,1122,Clear,Residential,Medium
+14,Sunday,517,Clear,Main Road,Low
+3,Tuesday,156,Cloudy,Residential,Low
+5,Tuesday,1026,Cloudy,Highway,Medium
+20,Friday,1071,Clear,Main Road,Medium
+20,Wednesday,632,Clear,Residential,Medium
+20,Tuesday,716,Clear,Main Road,Medium
+6,Monday,306,Rainy,Main Road,Low
+14,Wednesday,127,Clear,Residential,Low
+14,Wednesday,1136,Rainy,Highway,Medium
+4,Thursday,605,Clear,Main Road,Low
+13,Tuesday,366,Clear,Residential,Low
+12,Saturday,847,Cloudy,Residential,Low
+9,Friday,80,Clear,Residential,Low
+18,Thursday,142,Clear,Residential,Low
+16,Tuesday,329,Foggy,Highway,Low
+12,Thursday,568,Clear,Residential,Low
+17,Friday,472,Clear,Main Road,Medium
+18,Wednesday,265,Clear,Main Road,Low
+13,Tuesday,454,Cloudy,Main Road,Low
+6,Thursday,434,Rainy,Residential,Low
+18,Wednesday,653,Clear,Main Road,Medium
+17,Wednesday,697,Foggy,Residential,Medium
+23,Wednesday,1066,Cloudy,Highway,Medium
+3,Wednesday,978,Foggy,Highway,Medium
+10,Saturday,386,Rainy,Main Road,Medium
+22,Thursday,1088,Rainy,Highway,Medium
+12,Thursday,649,Cloudy,Main Road,Low
+22,Friday,266,Clear,Main Road,Low
+0,Wednesday,441,Clear,Main Road,Low
+0,Monday,903,Cloudy,Highway,Medium
+19,Saturday,995,Clear,Highway,Medium
+8,Monday,480,Rainy,Main Road,Medium
+12,Friday,231,Clear,Main Road,Low
+10,Tuesday,270,Rainy,Highway,Medium
+9,Tuesday,169,Clear,Highway,Low
+22,Monday,854,Foggy,Highway,Medium
+2,Sunday,628,Clear,Main Road,Low
+18,Thursday,569,Clear,Highway,Medium
+21,Wednesday,823,Rainy,Main Road,Medium
+15,Saturday,1003,Rainy,Main Road,Medium
+9,Monday,965,Rainy,Main Road,High
+3,Thursday,207,Foggy,Main Road,Low
+16,Thursday,728,Clear,Main Road,Medium
+11,Thursday,1065,Rainy,Residential,Medium
+3,Monday,940,Clear,Main Road,Medium
+8,Sunday,429,Cloudy,Main Road,Low
+23,Tuesday,502,Clear,Residential,Low
+6,Friday,1074,Clear,Main Road,Medium
+4,Saturday,87,Cloudy,Main Road,Low
+16,Wednesday,654,Rainy,Residential,Medium
+4,Monday,183,Clear,Highway,Low
+22,Wednesday,1079,Foggy,Residential,Medium
+20,Saturday,94,Cloudy,Main Road,Low
+23,Sunday,76,Clear,Main Road,Low
+21,Sunday,428,Cloudy,Main Road,Low
+5,Tuesday,280,Clear,Highway,Low
+5,Friday,620,Clear,Residential,Low
+8,Tuesday,394,Cloudy,Highway,Medium
+11,Friday,460,Clear,Main Road,Low
+21,Wednesday,700,Clear,Main Road,Low
+17,Friday,695,Rainy,Main Road,High
+15,Friday,1126,Clear,Highway,Medium
+21,Sunday,603,Rainy,Residential,Low
+15,Thursday,699,Rainy,Main Road,Low
+9,Wednesday,830,Clear,Residential,Medium
+9,Thursday,250,Cloudy,Highway,Low
+12,Tuesday,817,Clear,Highway,Low
+2,Monday,1042,Cloudy,Main Road,Medium
+17,Thursday,416,Clear,Highway,Low
+15,Saturday,255,Foggy,Main Road,Low
+17,Thursday,448,Clear,Highway,Medium
+12,Saturday,366,Cloudy,Residential,Low
+18,Tuesday,723,Clear,Residential,Medium
+22,Thursday,1044,Clear,Residential,Medium
+13,Friday,736,Clear,Residential,Low
+10,Wednesday,194,Cloudy,Residential,Low
+2,Monday,412,Foggy,Main Road,Medium
+18,Monday,843,Clear,Main Road,Medium
+21,Sunday,430,Clear,Residential,Low
+16,Friday,724,Clear,Residential,Medium
+20,Tuesday,848,Clear,Residential,Medium
+20,Tuesday,428,Rainy,Residential,Low
+19,Monday,795,Rainy,Highway,High
+12,Sunday,508,Rainy,Residential,Low
+2,Monday,205,Clear,Residential,Low
+0,Saturday,478,Clear,Main Road,Low
+4,Tuesday,557,Rainy,Residential,Low
+10,Wednesday,52,Clear,Main Road,Low
+17,Tuesday,1077,Cloudy,Residential,High
+10,Saturday,657,Clear,Highway,Medium
+0,Monday,91,Clear,Residential,Low
+5,Wednesday,1049,Rainy,Highway,Medium
+23,Tuesday,1034,Clear,Main Road,Medium
+23,Tuesday,63,Foggy,Highway,Low
+9,Tuesday,237,Clear,Main Road,Low
+19,Sunday,468,Clear,Highway,Low
+17,Wednesday,633,Clear,Residential,Medium
+22,Wednesday,885,Clear,Main Road,Medium
+21,Wednesday,538,Cloudy,Residential,Low
+15,Sunday,754,Clear,Main Road,Low
+9,Wednesday,61,Cloudy,Highway,Low
+15,Wednesday,807,Rainy,Residential,Medium
+7,Wednesday,1103,Clear,Main Road,High
+8,Wednesday,655,Clear,Main Road,Medium
+14,Monday,573,Clear,Residential,Low
+13,Friday,391,Rainy,Residential,Low
+13,Monday,1148,Cloudy,Main Road,Medium
+9,Tuesday,88,Clear,Residential,Low
+9,Tuesday,380,Cloudy,Main Road,Medium
+0,Wednesday,209,Clear,Main Road,Low
+14,Saturday,1047,Clear,Main Road,Medium
+13,Friday,605,Clear,Highway,Low
+22,Sunday,1111,Foggy,Highway,Medium
+12,Wednesday,815,Clear,Residential,Medium
+11,Sunday,690,Clear,Main Road,Low
+1,Monday,645,Clear,Main Road,Low
+4,Thursday,283,Cloudy,Main Road,Low
+8,Saturday,696,Clear,Highway,Low
+9,Thursday,838,Clear,Main Road,Medium
+8,Sunday,1161,Clear,Residential,High
+9,Wednesday,681,Cloudy,Main Road,Medium
+18,Monday,1130,Clear,Highway,High
+3,Saturday,1137,Rainy,Main Road,Medium
+7,Monday,651,Clear,Main Road,Medium
+3,Saturday,555,Clear,Main Road,Low
+7,Saturday,214,Foggy,Residential,Low
+16,Saturday,359,Rainy,Main Road,Low
+1,Thursday,1061,Clear,Main Road,Medium
+8,Sunday,209,Rainy,Main Road,Low
+0,Tuesday,507,Cloudy,Main Road,Medium
+22,Thursday,854,Clear,Main Road,Medium
+17,Monday,326,Rainy,Highway,Low
+5,Saturday,1171,Rainy,Residential,Medium
+4,Friday,797,Clear,Main Road,Medium
+2,Saturday,82,Cloudy,Main Road,Low
+11,Saturday,334,Clear,Highway,Low
+18,Wednesday,902,Clear,Residential,Medium
+14,Monday,1043,Foggy,Highway,Medium
+21,Sunday,1116,Cloudy,Main Road,Medium
+8,Thursday,1029,Cloudy,Residential,Medium
+6,Monday,136,Cloudy,Main Road,Low
+11,Sunday,889,Cloudy,Residential,Medium
+4,Sunday,176,Clear,Highway,Low
+23,Thursday,138,Foggy,Main Road,Low
+4,Saturday,846,Cloudy,Residential,Low
+11,Monday,600,Cloudy,Main Road,Medium
+12,Monday,795,Clear,Main Road,Low
+1,Tuesday,1030,Clear,Main Road,Medium
+11,Friday,129,Clear,Residential,Low
+10,Monday,657,Clear,Residential,Medium
+6,Monday,1010,Clear,Main Road,Medium
+3,Friday,556,Cloudy,Residential,Medium
+1,Saturday,652,Rainy,Main Road,Medium
+0,Saturday,623,Clear,Main Road,Low
+11,Saturday,1094,Clear,Main Road,Medium
+2,Saturday,107,Cloudy,Main Road,Low
+23,Friday,1060,Clear,Residential,Medium
+5,Thursday,989,Rainy,Main Road,Medium
+15,Saturday,985,Clear,Highway,Medium
+16,Wednesday,524,Clear,Main Road,Low
+11,Monday,643,Clear,Residential,Low
+21,Saturday,474,Foggy,Residential,Low
+2,Tuesday,339,Clear,Highway,Low
+5,Sunday,1057,Cloudy,Highway,Low
+6,Wednesday,632,Clear,Main Road,Low
+3,Saturday,882,Clear,Highway,Low
+7,Monday,166,Rainy,Residential,Low
+7,Friday,958,Clear,Main Road,Medium
+18,Thursday,808,Clear,Main Road,High
+7,Thursday,1198,Cloudy,Highway,High
+21,Tuesday,204,Rainy,Main Road,Low
+18,Sunday,671,Clear,Residential,Medium
+21,Wednesday,638,Clear,Main Road,Low
+2,Saturday,669,Foggy,Highway,Low
+23,Wednesday,112,Cloudy,Highway,Low
+14,Monday,594,Rainy,Residential,Low
+23,Sunday,394,Rainy,Residential,Low
+8,Tuesday,760,Cloudy,Highway,Medium
+22,Tuesday,317,Clear,Main Road,Low
+14,Sunday,550,Clear,Highway,Low
+1,Sunday,763,Cloudy,Main Road,Low
+9,Sunday,123,Cloudy,Highway,Low
+3,Wednesday,955,Foggy,Residential,Medium
+22,Saturday,873,Cloudy,Residential,Low
+7,Wednesday,115,Clear,Highway,Low
+5,Saturday,124,Cloudy,Main Road,Low
+13,Thursday,1028,Cloudy,Highway,Medium
+10,Monday,376,Clear,Main Road,Low
+2,Wednesday,1040,Rainy,Highway,Medium
+19,Thursday,624,Cloudy,Main Road,Medium
+20,Tuesday,443,Clear,Residential,Low
+17,Wednesday,364,Cloudy,Highway,Low
+14,Thursday,808,Cloudy,Residential,Medium
+9,Monday,176,Rainy,Highway,Low
+13,Tuesday,513,Clear,Main Road,Low
+12,Saturday,448,Cloudy,Main Road,Low
+3,Wednesday,227,Clear,Residential,Low
+1,Friday,456,Cloudy,Highway,Low
+6,Thursday,658,Clear,Highway,Low
+10,Thursday,829,Rainy,Main Road,High
+3,Wednesday,149,Rainy,Main Road,Low
+2,Thursday,1054,Cloudy,Main Road,Medium
+20,Saturday,1061,Cloudy,Highway,Medium
+8,Sunday,846,Clear,Main Road,Medium
+14,Tuesday,1113,Cloudy,Residential,Medium
+12,Friday,542,Clear,Main Road,Low
+17,Sunday,995,Cloudy,Main Road,Medium
+17,Monday,887,Clear,Main Road,Medium
+7,Saturday,697,Cloudy,Main Road,Medium
+20,Thursday,256,Clear,Residential,Low
+8,Sunday,691,Cloudy,Main Road,Medium
+20,Friday,1087,Cloudy,Highway,High
+9,Saturday,1183,Clear,Residential,High
+2,Tuesday,565,Clear,Main Road,Low
+18,Monday,335,Rainy,Main Road,Medium
+0,Sunday,910,Cloudy,Main Road,Medium
+18,Thursday,137,Clear,Main Road,Low
+1,Thursday,223,Clear,Main Road,Low
+4,Tuesday,696,Clear,Main Road,Low
+14,Tuesday,1189,Cloudy,Main Road,Medium
+22,Saturday,428,Cloudy,Highway,Low
+9,Wednesday,560,Clear,Residential,Low
+2,Friday,421,Cloudy,Main Road,Medium
+5,Wednesday,557,Rainy,Main Road,Medium
+21,Tuesday,58,Rainy,Main Road,Low
+17,Tuesday,734,Clear,Main Road,Medium
+2,Sunday,736,Clear,Main Road,Medium
+9,Sunday,413,Clear,Main Road,Low
+6,Monday,353,Clear,Residential,Low
+4,Wednesday,926,Clear,Residential,Medium
+20,Thursday,266,Clear,Residential,Low
+14,Wednesday,104,Clear,Main Road,Low
+4,Saturday,96,Cloudy,Main Road,Low
+15,Tuesday,1064,Clear,Main Road,Medium
+9,Monday,469,Cloudy,Highway,Medium
+1,Wednesday,167,Clear,Residential,Low
+10,Friday,1061,Cloudy,Main Road,High
+4,Tuesday,221,Clear,Main Road,Low
+5,Saturday,437,Rainy,Main Road,Low
+21,Monday,73,Rainy,Main Road,Low
+17,Monday,831,Clear,Main Road,Medium
+3,Thursday,854,Cloudy,Main Road,Medium
+20,Thursday,920,Clear,Main Road,Medium
+13,Wednesday,352,Cloudy,Main Road,Low
+20,Tuesday,427,Clear,Highway,Medium
+17,Monday,1129,Clear,Residential,Medium
+8,Friday,995,Clear,Highway,Medium
+12,Wednesday,92,Rainy,Main Road,Low
+12,Monday,846,Clear,Main Road,Medium
+17,Wednesday,985,Cloudy,Main Road,High
+5,Sunday,693,Clear,Residential,Low
+7,Tuesday,786,Clear,Main Road,Medium
+5,Sunday,51,Clear,Residential,Low
+7,Tuesday,84,Rainy,Residential,Low
+3,Tuesday,90,Rainy,Highway,Low
+0,Tuesday,232,Clear,Highway,Low
+22,Wednesday,1190,Rainy,Main Road,High
+1,Monday,780,Clear,Main Road,Medium
+21,Friday,950,Clear,Main Road,Medium
+0,Wednesday,390,Cloudy,Highway,Low
+18,Saturday,1129,Clear,Highway,Medium
+7,Thursday,278,Clear,Main Road,Medium
+12,Thursday,1088,Cloudy,Main Road,High
+6,Thursday,85,Clear,Main Road,Low
+11,Tuesday,73,Rainy,Residential,Low
+10,Friday,140,Cloudy,Highway,Low
+12,Monday,961,Rainy,Main Road,Medium
+9,Saturday,346,Cloudy,Residential,Medium
+12,Sunday,569,Rainy,Main Road,Medium
+19,Saturday,592,Clear,Main Road,Medium
+10,Thursday,958,Cloudy,Main Road,High
+8,Wednesday,451,Cloudy,Highway,Low
+3,Sunday,57,Rainy,Residential,Low
+8,Tuesday,494,Clear,Main Road,Medium
+3,Thursday,381,Cloudy,Main Road,Low
+4,Saturday,891,Rainy,Main Road,Medium
+22,Sunday,914,Clear,Main Road,Medium
+2,Sunday,155,Rainy,Main Road,Low
+11,Monday,962,Clear,Residential,Medium
+20,Sunday,131,Clear,Main Road,Low
+22,Monday,763,Cloudy,Highway,Medium
+3,Friday,498,Clear,Main Road,Low
+3,Sunday,396,Clear,Residential,Low
+8,Friday,606,Clear,Main Road,Medium
+13,Sunday,407,Clear,Main Road,Low
+23,Wednesday,963,Rainy,Main Road,Medium
+4,Wednesday,1162,Rainy,Residential,Medium
+3,Wednesday,988,Cloudy,Main Road,Medium
+6,Wednesday,555,Clear,Residential,Medium
+20,Friday,629,Cloudy,Highway,Medium
+0,Thursday,564,Rainy,Residential,Medium
+9,Saturday,963,Rainy,Residential,High
+2,Wednesday,685,Clear,Main Road,Low
+3,Wednesday,588,Clear,Main Road,Low
+22,Tuesday,521,Rainy,Highway,Low
+0,Thursday,481,Rainy,Main Road,Low
+7,Sunday,686,Clear,Highway,Medium
+21,Sunday,843,Rainy,Highway,Medium
+14,Tuesday,547,Clear,Residential,Low
+1,Thursday,978,Clear,Main Road,Medium
+11,Friday,1001,Rainy,Main Road,Medium
+23,Friday,543,Cloudy,Main Road,Medium
+9,Monday,1096,Clear,Main Road,Medium
+12,Friday,249,Rainy,Main Road,Low
+12,Monday,1122,Rainy,Main Road,Medium
+15,Monday,388,Clear,Main Road,Low
+4,Friday,699,Cloudy,Residential,Low
+20,Monday,376,Rainy,Main Road,Medium
+23,Wednesday,558,Cloudy,Residential,Low
+3,Friday,441,Foggy,Main Road,Low
+19,Friday,861,Cloudy,Main Road,High
+19,Thursday,143,Clear,Highway,Low
+17,Monday,1014,Clear,Highway,High
+8,Saturday,1090,Rainy,Residential,High
+11,Sunday,697,Foggy,Main Road,Medium
+20,Sunday,679,Clear,Main Road,Medium
+3,Saturday,855,Clear,Residential,Low
+19,Wednesday,279,Rainy,Main Road,Low
+22,Sunday,912,Clear,Residential,Low
+16,Thursday,301,Clear,Main Road,Low
+8,Monday,828,Rainy,Residential,Medium
+13,Saturday,401,Rainy,Main Road,Low
+1,Wednesday,908,Rainy,Highway,Medium
+22,Sunday,960,Cloudy,Main Road,Medium
+8,Wednesday,290,Clear,Highway,Low
+1,Sunday,760,Rainy,Residential,Medium
+19,Thursday,623,Clear,Main Road,Medium
+15,Thursday,388,Clear,Highway,Low
+14,Wednesday,727,Rainy,Highway,Medium
+1,Saturday,1192,Cloudy,Residential,Medium
+18,Monday,52,Rainy,Main Road,Low
+15,Thursday,1151,Clear,Residential,Medium
+19,Wednesday,1035,Foggy,Highway,Medium
+19,Thursday,659,Cloudy,Residential,Medium
+5,Tuesday,752,Cloudy,Main Road,Medium
+5,Friday,474,Rainy,Main Road,Medium
+22,Wednesday,198,Clear,Main Road,Low
+12,Tuesday,707,Cloudy,Highway,Low
+10,Tuesday,989,Cloudy,Residential,High
+6,Friday,316,Rainy,Residential,Low
+15,Tuesday,875,Rainy,Main Road,Medium
+18,Wednesday,911,Cloudy,Residential,Medium
+0,Friday,922,Clear,Highway,Medium
+13,Wednesday,441,Clear,Highway,Low
+23,Wednesday,501,Foggy,Highway,Low
+6,Tuesday,529,Foggy,Main Road,Low
+6,Wednesday,1033,Foggy,Highway,Medium
+21,Friday,1086,Clear,Main Road,Medium
+1,Thursday,526,Clear,Highway,Low
+9,Sunday,1166,Rainy,Main Road,High
+10,Saturday,706,Rainy,Residential,Medium
+19,Monday,493,Clear,Main Road,Low
+3,Wednesday,50,Cloudy,Highway,Low
+10,Wednesday,753,Clear,Residential,Medium
+3,Friday,792,Cloudy,Highway,Medium
+18,Tuesday,1164,Clear,Residential,High
+15,Sunday,876,Clear,Main Road,Medium
+11,Wednesday,84,Clear,Main Road,Low
+9,Thursday,702,Rainy,Highway,Medium
+3,Monday,904,Rainy,Residential,Medium
+22,Sunday,621,Foggy,Residential,Low
+15,Sunday,544,Clear,Main Road,Low
+7,Saturday,982,Clear,Residential,Medium
+9,Wednesday,753,Clear,Residential,Medium
+17,Monday,834,Cloudy,Highway,Medium
+17,Friday,584,Clear,Main Road,Medium
+11,Thursday,370,Rainy,Main Road,Low
+7,Sunday,647,Rainy,Main Road,Medium
+15,Friday,1153,Rainy,Highway,Medium
+15,Thursday,743,Clear,Residential,Low
+14,Sunday,864,Cloudy,Main Road,Medium
+1,Saturday,192,Clear,Main Road,Low
+11,Thursday,1187,Clear,Main Road,Medium
+14,Monday,331,Cloudy,Main Road,Low
+22,Monday,1167,Cloudy,Main Road,Medium
+12,Thursday,563,Cloudy,Residential,Low
+8,Thursday,1107,Clear,Main Road,High
+13,Monday,1076,Foggy,Main Road,Medium
+4,Monday,919,Foggy,Main Road,Medium
+2,Friday,1104,Clear,Main Road,Medium
+16,Saturday,751,Rainy,Main Road,Medium
+23,Monday,1026,Clear,Highway,Medium
+20,Thursday,248,Rainy,Highway,Low
+14,Monday,130,Rainy,Main Road,Low
+0,Saturday,675,Rainy,Residential,Medium
+23,Saturday,982,Rainy,Main Road,Medium
+10,Sunday,930,Clear,Highway,Medium
+6,Friday,657,Rainy,Main Road,Medium
+21,Friday,649,Cloudy,Residential,Medium
+17,Sunday,751,Clear,Main Road,Medium
+17,Friday,1049,Clear,Highway,Medium
+6,Thursday,1018,Rainy,Main Road,Medium
+23,Saturday,176,Cloudy,Main Road,Low
+10,Friday,735,Cloudy,Main Road,Medium
+12,Saturday,488,Rainy,Main Road,Low
+18,Thursday,970,Cloudy,Highway,High
+15,Sunday,632,Clear,Main Road,Low
+4,Monday,1191,Clear,Main Road,Medium
+7,Monday,547,Cloudy,Main Road,Medium
+8,Monday,831,Rainy,Highway,Medium
+22,Thursday,174,Cloudy,Main Road,Low
+17,Friday,1123,Cloudy,Residential,High
+8,Tuesday,226,Cloudy,Highway,Low
+17,Tuesday,485,Cloudy,Main Road,Medium
+17,Sunday,1014,Rainy,Main Road,Medium
+9,Saturday,1163,Clear,Main Road,High
+9,Friday,607,Rainy,Residential,Medium
+21,Thursday,607,Cloudy,Residential,Low
+13,Wednesday,106,Clear,Main Road,Low
+3,Monday,1176,Cloudy,Highway,Medium
+17,Tuesday,68,Cloudy,Main Road,Low
+14,Sunday,80,Cloudy,Highway,Low
+12,Wednesday,594,Rainy,Main Road,Medium
+17,Friday,54,Clear,Residential,Low
+21,Friday,239,Clear,Residential,Low
+7,Wednesday,772,Clear,Main Road,Medium
+10,Tuesday,861,Clear,Main Road,Medium
+4,Friday,393,Cloudy,Highway,Low
+15,Monday,965,Rainy,Main Road,Medium
+9,Thursday,749,Cloudy,Highway,Medium
+8,Sunday,312,Clear,Residential,Low
+16,Friday,870,Clear,Residential,Medium
+9,Saturday,731,Clear,Highway,Medium
+11,Monday,984,Cloudy,Main Road,Medium
+10,Tuesday,227,Clear,Main Road,Low
+6,Tuesday,315,Cloudy,Residential,Low
+3,Wednesday,399,Rainy,Main Road,Medium
+19,Tuesday,442,Cloudy,Highway,Low
+2,Sunday,1073,Clear,Main Road,Medium
+7,Tuesday,893,Clear,Highway,Medium
+16,Friday,676,Cloudy,Main Road,Medium
+3,Friday,672,Cloudy,Highway,Low
+15,Friday,1069,Clear,Main Road,Medium
+17,Tuesday,564,Rainy,Residential,Medium
+15,Wednesday,309,Cloudy,Highway,Low
+7,Friday,207,Clear,Main Road,Low
+0,Wednesday,429,Clear,Main Road,Medium
+21,Friday,801,Clear,Highway,Low
+7,Monday,592,Clear,Main Road,Medium
+19,Monday,535,Clear,Main Road,Medium
+4,Saturday,602,Cloudy,Main Road,Medium
+3,Friday,1172,Clear,Residential,Medium
+18,Monday,1198,Rainy,Main Road,High
+22,Sunday,235,Foggy,Main Road,Low
+20,Monday,181,Clear,Highway,Low
+18,Sunday,331,Clear,Highway,Low
+5,Saturday,1030,Rainy,Highway,Medium
+21,Sunday,578,Foggy,Residential,Low
+16,Sunday,1044,Rainy,Residential,Medium
+4,Wednesday,794,Clear,Residential,Medium
+3,Saturday,686,Clear,Highway,Low
+20,Tuesday,374,Clear,Main Road,Medium
+6,Thursday,445,Rainy,Residential,Low
+18,Tuesday,220,Cloudy,Main Road,Low
+3,Thursday,647,Cloudy,Highway,Low
+6,Sunday,372,Cloudy,Residential,Low
+6,Thursday,386,Clear,Highway,Low
+6,Monday,95,Cloudy,Highway,Low
+16,Wednesday,969,Clear,Residential,Medium
+21,Saturday,1131,Cloudy,Main Road,Medium
+21,Thursday,623,Rainy,Main Road,Medium
+17,Thursday,666,Cloudy,Main Road,Medium
+4,Thursday,1115,Clear,Residential,Medium
+23,Wednesday,638,Rainy,Highway,Medium
+13,Friday,766,Cloudy,Residential,Low
+13,Friday,542,Clear,Main Road,Low
+16,Sunday,641,Clear,Highway,Low
+18,Friday,650,Cloudy,Main Road,Medium
+22,Sunday,868,Clear,Main Road,Medium
+13,Saturday,745,Clear,Highway,Low
+14,Monday,630,Clear,Main Road,Low
+17,Wednesday,137,Clear,Main Road,Medium
+6,Wednesday,1091,Clear,Main Road,Medium
+7,Monday,1072,Cloudy,Main Road,High
+15,Tuesday,262,Clear,Residential,Low
+1,Saturday,387,Cloudy,Main Road,Low
+7,Wednesday,1170,Clear,Main Road,High
+17,Tuesday,419,Clear,Main Road,Medium
+23,Wednesday,984,Clear,Main Road,Medium
+12,Tuesday,954,Rainy,Highway,Medium
+9,Tuesday,1040,Foggy,Main Road,High
+10,Monday,68,Cloudy,Highway,Low
+16,Saturday,605,Clear,Main Road,Low
+13,Saturday,700,Clear,Residential,Low
+0,Thursday,1013,Clear,Main Road,High
+12,Friday,308,Rainy,Main Road,Low
+9,Sunday,403,Clear,Main Road,Medium
+16,Saturday,257,Foggy,Main Road,Low
+21,Monday,927,Cloudy,Main Road,Medium
+23,Sunday,1199,Cloudy,Main Road,Medium
+14,Monday,211,Rainy,Main Road,Low
+8,Monday,318,Clear,Highway,Low
+10,Wednesday,403,Rainy,Main Road,Medium
+4,Saturday,1073,Clear,Main Road,Medium
+22,Monday,563,Rainy,Residential,Low
+20,Wednesday,374,Cloudy,Residential,Medium
+20,Tuesday,420,Clear,Residential,Medium
+7,Wednesday,738,Rainy,Main Road,Medium
+7,Sunday,495,Clear,Highway,Medium
+20,Wednesday,211,Clear,Main Road,Low
+13,Tuesday,993,Rainy,Residential,Medium
+16,Monday,535,Clear,Residential,Low
+11,Tuesday,345,Rainy,Residential,Medium
+10,Monday,888,Cloudy,Highway,Medium
+15,Friday,907,Cloudy,Main Road,Medium
+19,Wednesday,228,Clear,Residential,Low
+8,Thursday,134,Clear,Main Road,Low
+19,Saturday,102,Foggy,Main Road,Low
+5,Friday,931,Clear,Main Road,Medium
+9,Tuesday,770,Cloudy,Main Road,Medium
+21,Wednesday,961,Clear,Main Road,Medium
+22,Wednesday,770,Clear,Highway,Medium
+22,Saturday,512,Cloudy,Residential,Low
+7,Wednesday,728,Rainy,Residential,Medium
+20,Monday,881,Rainy,Residential,Medium
+22,Saturday,509,Rainy,Main Road,Medium
+23,Wednesday,1103,Clear,Highway,Medium
+0,Monday,1085,Clear,Main Road,Medium
+17,Friday,971,Clear,Residential,Medium
+23,Tuesday,1192,Rainy,Main Road,High
+18,Sunday,499,Clear,Residential,Low
+5,Saturday,181,Cloudy,Main Road,Low
+18,Wednesday,607,Clear,Main Road,Medium
+2,Thursday,908,Rainy,Residential,Medium
+11,Thursday,947,Rainy,Highway,Medium
+15,Friday,497,Rainy,Residential,Low
+10,Monday,386,Clear,Main Road,Low
+16,Wednesday,562,Foggy,Highway,Low
+5,Tuesday,975,Clear,Highway,Medium
+14,Friday,119,Clear,Residential,Low
+15,Monday,427,Clear,Main Road,Low
+15,Thursday,314,Clear,Residential,Low
+6,Saturday,977,Cloudy,Residential,Low
+7,Sunday,590,Clear,Main Road,Low
+6,Wednesday,149,Clear,Residential,Low
+11,Monday,351,Cloudy,Residential,Low
+14,Saturday,101,Rainy,Highway,Low
+8,Monday,597,Cloudy,Residential,Medium
+9,Monday,1198,Cloudy,Main Road,High
+6,Sunday,702,Clear,Main Road,Low
+5,Sunday,1050,Rainy,Main Road,Medium
+15,Friday,904,Clear,Residential,Low
+19,Saturday,1066,Clear,Highway,Medium
+6,Monday,407,Clear,Main Road,Low
+20,Monday,1144,Cloudy,Main Road,High
+13,Wednesday,324,Clear,Highway,Low
+4,Monday,554,Cloudy,Residential,Low
+8,Sunday,834,Clear,Residential,Medium
+0,Monday,380,Clear,Highway,Low
+0,Thursday,354,Clear,Highway,Low
+8,Saturday,199,Clear,Residential,Low
+10,Saturday,54,Clear,Highway,Low
+19,Tuesday,626,Cloudy,Highway,Medium
+3,Thursday,1185,Cloudy,Residential,Medium
+20,Thursday,303,Clear,Residential,Low
+5,Saturday,556,Cloudy,Main Road,Low
+3,Wednesday,1126,Clear,Main Road,Medium
+16,Tuesday,938,Clear,Residential,Medium
+18,Saturday,54,Clear,Main Road,Low
+14,Sunday,626,Cloudy,Main Road,Low
+2,Thursday,214,Clear,Residential,Low
+2,Monday,334,Cloudy,Main Road,Low
+9,Thursday,333,Clear,Main Road,Low
+10,Sunday,754,Rainy,Main Road,Medium
+23,Sunday,278,Clear,Main Road,Low
+6,Wednesday,339,Cloudy,Main Road,Low
+4,Tuesday,309,Rainy,Main Road,Low
+22,Friday,460,Clear,Main Road,Low
+3,Saturday,805,Clear,Residential,Low
+0,Sunday,510,Cloudy,Main Road,Low
+10,Monday,426,Foggy,Highway,Medium
+9,Wednesday,645,Foggy,Main Road,Medium
+14,Thursday,757,Clear,Highway,Low
+21,Monday,67,Rainy,Residential,Low
+22,Sunday,1074,Clear,Main Road,Medium
+6,Monday,1104,Clear,Main Road,High
+23,Friday,743,Cloudy,Residential,Low
+15,Sunday,711,Cloudy,Highway,Low
+1,Friday,849,Cloudy,Highway,Medium
+22,Saturday,557,Rainy,Residential,Low
+3,Tuesday,470,Clear,Main Road,Low
+14,Saturday,455,Cloudy,Residential,Low
+18,Wednesday,233,Clear,Residential,Low
+5,Monday,1018,Clear,Residential,Medium
+6,Wednesday,418,Clear,Highway,Low
+11,Wednesday,377,Foggy,Residential,Low
+21,Thursday,1159,Cloudy,Main Road,Medium
+5,Tuesday,633,Clear,Highway,Low
+15,Thursday,765,Cloudy,Residential,Low
+10,Wednesday,332,Foggy,Main Road,Medium
+2,Wednesday,369,Rainy,Residential,Medium
+17,Friday,888,Cloudy,Main Road,Medium
+19,Wednesday,569,Clear,Main Road,Medium
+13,Saturday,220,Cloudy,Highway,Low
+4,Tuesday,1011,Rainy,Residential,Medium
+3,Sunday,513,Rainy,Main Road,Low
+10,Wednesday,819,Rainy,Highway,Medium
+12,Monday,442,Clear,Highway,Low
+13,Tuesday,695,Clear,Residential,Low
+5,Saturday,942,Cloudy,Highway,Medium
+12,Sunday,1068,Clear,Main Road,Medium
+7,Tuesday,288,Clear,Main Road,Low
+16,Friday,823,Cloudy,Main Road,Medium
+19,Friday,1102,Cloudy,Main Road,High
+15,Monday,789,Rainy,Highway,Medium
+0,Thursday,214,Rainy,Residential,Low
+23,Friday,268,Rainy,Residential,Low
+0,Sunday,283,Rainy,Main Road,Low
+23,Saturday,172,Cloudy,Main Road,Low
+0,Monday,917,Clear,Main Road,Medium
+12,Tuesday,1160,Cloudy,Residential,Medium
+2,Thursday,644,Clear,Main Road,Low
+2,Tuesday,739,Clear,Main Road,Medium
+16,Thursday,940,Clear,Residential,Medium
+17,Monday,528,Rainy,Highway,Medium
+2,Monday,593,Rainy,Main Road,Medium
+23,Monday,727,Foggy,Highway,Medium
+7,Wednesday,400,Foggy,Main Road,Medium
+7,Saturday,121,Rainy,Main Road,Low
+7,Tuesday,703,Clear,Residential,Medium
+11,Sunday,996,Rainy,Main Road,Medium
+4,Tuesday,134,Rainy,Highway,Low
+10,Monday,299,Rainy,Residential,Low
+5,Wednesday,352,Clear,Residential,Low
+1,Saturday,976,Clear,Main Road,Medium
+8,Monday,630,Rainy,Main Road,Medium
+16,Monday,665,Clear,Main Road,Medium
+18,Saturday,792,Clear,Main Road,Medium
+8,Friday,368,Clear,Highway,Low
+7,Wednesday,871,Clear,Highway,Medium
+18,Saturday,84,Clear,Residential,Low
+16,Saturday,180,Foggy,Main Road,Low
+19,Wednesday,989,Rainy,Highway,Medium
+21,Thursday,807,Rainy,Highway,Medium
+19,Monday,253,Clear,Residential,Low
+22,Wednesday,555,Clear,Highway,Low
+9,Friday,109,Clear,Main Road,Low
+9,Tuesday,823,Clear,Highway,Low
+7,Sunday,920,Clear,Highway,Medium
+5,Sunday,370,Rainy,Main Road,Low
+17,Tuesday,452,Foggy,Residential,Medium
+17,Wednesday,322,Cloudy,Main Road,Medium
+19,Tuesday,498,Clear,Main Road,Medium
+4,Thursday,363,Clear,Main Road,Low
+11,Monday,334,Clear,Main Road,Low
+5,Wednesday,545,Clear,Main Road,Medium
+21,Thursday,1038,Cloudy,Main Road,Medium
+6,Friday,927,Clear,Main Road,Medium
+3,Friday,392,Cloudy,Main Road,Low
+13,Tuesday,1135,Rainy,Residential,Medium
+21,Saturday,291,Clear,Main Road,Low
+21,Friday,1098,Clear,Residential,Medium
+2,Saturday,405,Clear,Highway,Low
+7,Thursday,671,Clear,Main Road,Medium
+3,Sunday,283,Cloudy,Main Road,Low
+7,Wednesday,927,Rainy,Main Road,High
+12,Saturday,415,Rainy,Residential,Low
+6,Tuesday,1054,Cloudy,Main Road,Medium
+1,Tuesday,145,Clear,Highway,Low
+12,Thursday,627,Clear,Residential,Low
+1,Thursday,232,Clear,Highway,Low
+5,Saturday,1073,Clear,Main Road,Medium
+0,Wednesday,530,Rainy,Main Road,Medium
+2,Sunday,826,Cloudy,Residential,Medium
+10,Wednesday,1062,Clear,Main Road,High
+20,Thursday,666,Clear,Main Road,Medium
+18,Sunday,115,Clear,Residential,Low
+2,Thursday,304,Rainy,Main Road,Medium
+0,Friday,294,Clear,Residential,Low
+8,Sunday,1102,Clear,Residential,High
+15,Sunday,1095,Clear,Main Road,Low
+17,Thursday,598,Rainy,Residential,Medium
+19,Wednesday,1074,Cloudy,Main Road,Medium
+8,Tuesday,333,Cloudy,Highway,Low
+4,Thursday,832,Clear,Main Road,Low
+0,Sunday,501,Clear,Main Road,Low
+3,Thursday,326,Rainy,Highway,Low
+1,Wednesday,337,Clear,Main Road,Low
+20,Monday,533,Clear,Main Road,Medium
+6,Wednesday,440,Cloudy,Main Road,Low
+19,Tuesday,293,Clear,Highway,Medium
+13,Sunday,434,Clear,Residential,Low
+12,Thursday,198,Rainy,Main Road,Low
+10,Monday,1166,Cloudy,Highway,High
+19,Monday,487,Clear,Main Road,Medium
+1,Saturday,173,Clear,Main Road,Low
+2,Sunday,712,Cloudy,Main Road,Low
+10,Saturday,1066,Clear,Main Road,Medium
+9,Monday,464,Clear,Highway,Low
+13,Monday,1022,Cloudy,Residential,Medium
+17,Tuesday,753,Cloudy,Main Road,Medium
+14,Saturday,900,Foggy,Highway,Medium
+6,Saturday,390,Clear,Residential,Low
+7,Saturday,92,Clear,Main Road,Low
+18,Monday,448,Cloudy,Main Road,Medium
+4,Tuesday,1114,Cloudy,Main Road,Medium
+12,Sunday,960,Clear,Main Road,Medium
+12,Sunday,952,Cloudy,Main Road,Medium
+18,Saturday,1060,Clear,Highway,Medium
+17,Monday,479,Rainy,Main Road,Medium
+11,Monday,420,Rainy,Residential,Low
+7,Monday,1114,Clear,Main Road,High
+8,Friday,707,Foggy,Main Road,Medium
+9,Saturday,392,Foggy,Highway,Low
+5,Friday,370,Clear,Main Road,Low
+15,Tuesday,1059,Clear,Main Road,Medium
+5,Saturday,111,Cloudy,Highway,Low
+15,Monday,121,Clear,Highway,Low
+18,Saturday,899,Clear,Main Road,Medium
+23,Sunday,51,Clear,Main Road,Low
+2,Saturday,246,Foggy,Highway,Low
+18,Sunday,1190,Clear,Highway,Medium
+2,Friday,539,Rainy,Main Road,Low
+8,Thursday,887,Clear,Main Road,Medium
+4,Wednesday,610,Clear,Main Road,Low
+3,Sunday,154,Rainy,Highway,Low
+4,Friday,262,Clear,Main Road,Low
+1,Tuesday,926,Clear,Residential,Medium
+19,Sunday,158,Clear,Main Road,Low
+1,Monday,734,Cloudy,Highway,Low
+9,Friday,450,Clear,Main Road,Medium
+16,Tuesday,476,Clear,Main Road,Low
+23,Friday,1146,Clear,Highway,Medium
+20,Wednesday,747,Clear,Main Road,Medium
+3,Thursday,758,Clear,Residential,Medium
+23,Friday,453,Cloudy,Main Road,Low
+15,Saturday,489,Clear,Residential,Low
+4,Wednesday,839,Clear,Main Road,Medium
+10,Sunday,94,Cloudy,Main Road,Low
+22,Thursday,323,Cloudy,Highway,Low
+9,Tuesday,740,Clear,Main Road,Medium
+4,Monday,767,Clear,Highway,Low
+21,Tuesday,156,Clear,Main Road,Low
+22,Friday,956,Foggy,Main Road,Medium
+23,Thursday,674,Clear,Main Road,Medium
+22,Wednesday,323,Clear,Main Road,Low
+20,Thursday,915,Clear,Highway,Medium
+10,Saturday,1190,Clear,Main Road,High
+4,Friday,537,Clear,Residential,Low
+14,Monday,376,Clear,Highway,Low
+5,Monday,394,Cloudy,Main Road,Low
+11,Thursday,732,Cloudy,Main Road,Medium
+15,Wednesday,104,Cloudy,Main Road,Low
+22,Saturday,606,Rainy,Main Road,Low
+6,Friday,78,Clear,Highway,Low
+6,Saturday,94,Rainy,Main Road,Low
+17,Friday,544,Rainy,Main Road,Medium
+0,Wednesday,908,Rainy,Main Road,Medium
+13,Friday,1066,Cloudy,Residential,Medium
+17,Friday,150,Clear,Residential,Low
+13,Saturday,330,Clear,Highway,Low
+9,Tuesday,535,Clear,Main Road,Low
+19,Friday,710,Clear,Highway,Medium
+8,Tuesday,1186,Clear,Highway,High
+17,Saturday,837,Clear,Main Road,Medium
+11,Saturday,669,Clear,Main Road,Medium
+0,Friday,120,Foggy,Main Road,Low
+12,Sunday,143,Cloudy,Main Road,Low
+1,Thursday,226,Cloudy,Main Road,Low
+22,Monday,810,Clear,Residential,Medium
+14,Friday,431,Cloudy,Residential,Low
+8,Saturday,327,Rainy,Highway,Low
+11,Monday,821,Cloudy,Main Road,Medium
+14,Monday,988,Cloudy,Main Road,Low
+6,Tuesday,555,Clear,Main Road,Low
+6,Saturday,1065,Clear,Main Road,Medium
+10,Thursday,895,Cloudy,Residential,High
+6,Sunday,874,Foggy,Highway,Medium
+18,Sunday,1048,Clear,Main Road,High
+2,Thursday,261,Clear,Residential,Low
+19,Friday,922,Clear,Highway,Medium
+8,Wednesday,1152,Clear,Highway,Medium
+13,Monday,1192,Foggy,Main Road,High
+3,Wednesday,715,Cloudy,Residential,Low
+9,Friday,918,Clear,Main Road,Medium
+18,Tuesday,1072,Clear,Residential,High
+6,Tuesday,1030,Clear,Main Road,Medium
+3,Monday,1083,Clear,Highway,Medium
+12,Saturday,1008,Cloudy,Main Road,Medium
+3,Sunday,488,Rainy,Residential,Low
+7,Saturday,890,Cloudy,Residential,Medium
+10,Wednesday,522,Clear,Highway,Low
+13,Friday,972,Cloudy,Highway,Medium
+15,Sunday,982,Cloudy,Residential,Medium
+16,Friday,1125,Clear,Main Road,Medium
+20,Wednesday,727,Cloudy,Highway,Medium
+1,Wednesday,596,Cloudy,Residential,Low
+8,Saturday,240,Rainy,Main Road,Low
+0,Thursday,784,Clear,Main Road,Medium
+0,Saturday,701,Clear,Highway,Medium
+5,Sunday,642,Cloudy,Highway,Low
+14,Monday,828,Clear,Residential,Medium
+21,Saturday,1029,Clear,Main Road,Medium
+18,Wednesday,221,Rainy,Highway,Low
+15,Thursday,546,Clear,Main Road,Medium
+18,Tuesday,881,Clear,Highway,Medium
+4,Wednesday,993,Foggy,Highway,Medium
+20,Wednesday,945,Cloudy,Main Road,High
+21,Monday,970,Cloudy,Main Road,Medium
+2,Saturday,1034,Cloudy,Highway,Medium
+11,Tuesday,1157,Clear,Main Road,High
+19,Wednesday,749,Clear,Main Road,Medium
+11,Tuesday,336,Cloudy,Main Road,Low
+20,Tuesday,698,Clear,Highway,Medium
+22,Wednesday,866,Clear,Highway,Low
+11,Sunday,165,Clear,Highway,Low
+1,Sunday,921,Rainy,Main Road,Medium
+8,Wednesday,676,Clear,Main Road,Medium
+5,Thursday,1127,Rainy,Highway,Medium
+11,Sunday,293,Clear,Residential,Low
+14,Tuesday,1093,Cloudy,Main Road,Medium
+11,Sunday,565,Clear,Highway,Low
+4,Monday,710,Clear,Highway,Low
+7,Tuesday,809,Cloudy,Highway,Medium
+16,Wednesday,716,Cloudy,Highway,Medium
+0,Monday,1090,Clear,Main Road,Medium
+5,Saturday,242,Clear,Highway,Low
+21,Saturday,890,Clear,Residential,Medium
+2,Wednesday,1172,Clear,Main Road,Medium
+9,Saturday,303,Cloudy,Main Road,Low
+4,Saturday,343,Clear,Residential,Low
+2,Saturday,596,Cloudy,Main Road,Medium
+10,Saturday,884,Clear,Residential,Medium
+12,Friday,1153,Cloudy,Residential,Medium
+4,Monday,965,Clear,Main Road,Medium
+1,Sunday,963,Clear,Highway,Low
+3,Friday,557,Clear,Main Road,Medium
+15,Sunday,792,Rainy,Highway,Medium
+20,Sunday,293,Cloudy,Main Road,Low
+4,Tuesday,583,Rainy,Main Road,Medium
+7,Wednesday,267,Clear,Main Road,Low
+8,Tuesday,81,Clear,Residential,Low
+8,Monday,1035,Clear,Main Road,High
+5,Sunday,976,Clear,Main Road,Medium
+1,Sunday,637,Cloudy,Main Road,Low
+12,Sunday,66,Rainy,Residential,Low
+8,Sunday,153,Cloudy,Main Road,Medium
+8,Friday,178,Cloudy,Highway,Low
+6,Thursday,875,Clear,Main Road,Medium
+22,Sunday,284,Clear,Highway,Low
+14,Thursday,337,Rainy,Main Road,Low
+10,Friday,1041,Clear,Main Road,High
+4,Tuesday,1058,Clear,Main Road,Medium
+19,Saturday,928,Foggy,Main Road,Medium
+21,Saturday,406,Foggy,Residential,Low
+0,Friday,717,Cloudy,Residential,Medium
+22,Thursday,280,Clear,Main Road,Low

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Traffic Congestion Predictor | AI Traffic Predictor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <nav class="navbar">
+    <a class="brand" href="/"> <span class="brand-icon">✦</span> AI Traffic Congestion Predictor</a>
+    <div class="nav-links"><a class="active" href="/">Predict</a><a href="/about">About</a></div>
+  </nav>
+
+  <main class="container">
+    <section class="hero">
+    
+      <h1>Predict traffic.<br><span>Plan smarter.</span></h1>
+      <p>Enter road conditions below and let the machine-learning model estimate the congestion level.</p>
+    </section>
+
+    <section class="content-grid">
+      <div class="panel form-panel">
+        <div class="panel-heading">
+          <div><div class="section-kicker">PREDICTION INPUT</div><h2>Road conditions</h2></div>
+          <span class="step">01 / 01</span>
+        </div>
+        <form method="POST" id="trafficForm">
+          <div class="field">
+            <label for="hour">Time of day</label>
+            <div class="input-wrap"><span>◷</span>
+              <select id="hour" name="hour" required>
+                {% for h in range(24) %}
+                <option value="{{ h }}" {% if inputs.get('hour', 18) == h %}selected{% endif %}>{{ "%02d"|format(h) }}:00</option>
+                {% endfor %}
+              </select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="day">Day of the week</label>
+            <div class="input-wrap"><span>▦</span>
+              <select id="day" name="day">
+                {% for d in ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"] %}
+                <option {% if inputs.get('day', 'Monday') == d %}selected{% endif %}>{{ d }}</option>
+                {% endfor %}
+              </select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="vehicles">Estimated number of vehicles</label>
+            <div class="input-wrap"><span>▤</span>
+              <input id="vehicles" type="number" name="vehicles" min="50" max="1200"
+                     value="{{ inputs.get('vehicles', 650) }}" required>
+            </div>
+            <small>Enter a value between 50 and 1,200.</small>
+          </div>
+          <div class="field-row">
+            <div class="field">
+              <label for="weather">Weather</label>
+              <div class="input-wrap"><span>☁</span>
+                <select id="weather" name="weather">
+                  {% for w in ["Clear","Cloudy","Rainy","Foggy"] %}
+                  <option {% if inputs.get('weather', 'Clear') == w %}selected{% endif %}>{{ w }}</option>
+                  {% endfor %}
+                </select>
+              </div>
+            </div>
+            <div class="field">
+              <label for="road_type">Road type</label>
+              <div class="input-wrap"><span>⌁</span>
+                <select id="road_type" name="road_type">
+                  {% for r in ["Highway","Main Road","Residential"] %}
+                  <option {% if inputs.get('road_type', 'Main Road') == r %}selected{% endif %}>{{ r }}</option>
+                  {% endfor %}
+                </select>
+              </div>
+            </div>
+          </div>
+          <button class="predict-btn" type="submit">Run AI prediction <span>→</span></button>
+        </form>
+      </div>
+
+      <aside class="panel result-panel">
+        <div class="section-kicker">MODEL OUTPUT</div>
+        <h2>Congestion forecast</h2>
+        {% if prediction %}
+          {% if prediction in ["Low", "Medium", "High"] %}
+          <div class="result-icon {{ prediction|lower }}">
+            {% if prediction == "Low" %}↗{% elif prediction == "Medium" %}⇢{% else %}⚠{% endif %}
+          </div>
+          <div class="result-label">PREDICTED LEVEL</div>
+          <div class="result-value {{ prediction|lower }}">{{ prediction }}</div>
+          <p class="result-copy">
+            {% if prediction == "Low" %}Traffic is expected to be relatively light based on the entered details.
+            {% elif prediction == "Medium" %}Some delays may occur. Allow a little extra travel time.
+            {% else %}Heavy congestion is predicted. Consider allowing extra travel time.{% endif %}
+          </p>
+          <div class="confidence"><span>Model confidence</span><strong>{{ confidence }}%</strong></div>
+          <div class="meter"><span style="width: {{ confidence }}%"></span></div>
+          {% else %}<p>{{ prediction }}</p>{% endif %}
+        {% else %}
+          <div class="empty-state">
+            <div class="empty-art"><span>🚦</span><i></i><i></i><i></i></div>
+            <h3>Your result appears here</h3>
+            <p>Fill in the road conditions and run the prediction to see the estimated traffic level.</p>
+          </div>
+        {% endif %}
+        <div class="result-note"><span>ⓘ</span> Demo model trained on generated sample data. Not live traffic information.</div>
+      </aside>
+    </section>
+
+    <section class="info-strip">
+      <div><span class="info-icon">◈</span><div><strong>Random Forest</strong><small>ML algorithm</small></div></div>
+      <div><span class="info-icon">▥</span><div><strong>5 input features</strong><small>Road condition data</small></div></div>
+      <div><span class="info-icon">◎</span><div><strong>3 categories</strong><small>Low · Medium · High</small></div></div>
+    </section>
+    <footer>AI Traffic Congestion Predictor</footer>
+  </main>
+</body>
+</html>
